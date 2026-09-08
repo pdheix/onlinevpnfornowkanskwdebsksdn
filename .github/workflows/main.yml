@@ -34,13 +34,13 @@ jobs:
       - name: Fetch configs from all servers
         run: python fetch_configs.py
 
-      - name: Commit and push configs.json
+      - name: Commit and push configs
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add configs.json
+          git add configs.json configs.txt
           if ! git diff --cached --quiet; then
-            git commit -m "🔄 auto: update configs.json — $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git commit -m "🔄 auto: update configs — $(date -u '+%Y-%m-%d %H:%M') UTC"
             git push
           else
             echo "تغییری نبود — commit انجام نشد."
