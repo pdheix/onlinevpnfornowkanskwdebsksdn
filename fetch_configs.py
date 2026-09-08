@@ -40,6 +40,7 @@ FALLBACK_DOMAINS = [
 ]
 TIMEOUT = 25          # ثانیه — برای هر دامنه
 OUT_FILE = "configs.json"
+TXT_FILE = "configs.txt"
 TEHRAN = timezone(timedelta(hours=3), "Iran Standard Time")
 
 
@@ -177,6 +178,10 @@ def main() -> int:
 
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
+
+    # فایل متنی ساده — فقط خود کانفیگ‌ها، بدون هیچ چیز اضافه
+    with open(TXT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_unique) + ("\n" if all_unique else ""))
 
     for r in results:
         mark = "✅" if r["ok"] else "❌"
