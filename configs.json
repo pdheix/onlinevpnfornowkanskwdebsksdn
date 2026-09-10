@@ -1,229 +1,119 @@
 {
- "updated_at_utc": "2026-09-10T09:16:53Z",
- "updated_at_tehran": "2026-09-10 12:16:53 (Iran Standard Time)",
+ "updated_at_utc": "2026-09-10T13:39:11Z",
+ "updated_at_tehran": "2026-09-10 16:39:11 (Iran Standard Time)",
  "summary": {
   "speedray_domains_total": 11,
-  "speedray_domains_ok": 10,
-  "speedray_domains_failed": 1,
-  "speedray_main_configs": 64,
-  "speedray_splash_configs": 62,
-  "speedray_unique": 118,
+  "speedray_domains_ok": 8,
+  "speedray_domains_failed": 3,
+  "speedray_main_configs": 8,
+  "speedray_splash_configs": 8,
+  "speedray_unique": 8,
   "shah_normal_configs": 9,
   "shah_smart_configs": 1,
   "shah_unique": 0,
   "shah_source_used": "api.gem-panel.com (اصلی)",
-  "unique_total": 118,
-  "unique_uuids": 10
+  "unique_total": 8,
+  "unique_uuids": 5
  },
  "speedray": {
   "domains": [
    {
     "url": "https://akhtarbuy.uk/v2speed.php",
-    "ok": true,
-    "http_ms": 686,
-    "config_count": 62,
-    "error": null
+    "ok": false,
+    "http_ms": 502,
+    "config_count": 0,
+    "error": "HTTPError: HTTP Error 502: Bad Gateway"
    },
    {
     "url": "https://akhtarbuy.ca/v2speed.php",
     "ok": false,
-    "http_ms": 25246,
+    "http_ms": 25061,
     "config_count": 0,
     "error": "URLError: <urlopen error timed out>"
    },
    {
     "url": "https://akhtarbuy.cc/v2speed.php",
     "ok": true,
-    "http_ms": 1718,
+    "http_ms": 2391,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.net/v2speed.php",
     "ok": true,
-    "http_ms": 1448,
+    "http_ms": 2079,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.org/v2speed.php",
     "ok": true,
-    "http_ms": 1708,
+    "http_ms": 2463,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.work/v2speed.php",
     "ok": true,
-    "http_ms": 1697,
+    "http_ms": 2418,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://tmzara.com/v2speed.php",
     "ok": true,
-    "http_ms": 1632,
+    "http_ms": 2425,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.com/v2speed.php",
-    "ok": true,
-    "http_ms": 688,
-    "config_count": 62,
-    "error": null
+    "ok": false,
+    "http_ms": 25312,
+    "config_count": 0,
+    "error": "TimeoutError: The read operation timed out"
    },
    {
     "url": "https://sirjanha.com/v2speed.php",
     "ok": true,
-    "http_ms": 1589,
+    "http_ms": 2431,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://piransharrudaw-events.com/v2speed.php",
     "ok": true,
-    "http_ms": 696,
+    "http_ms": 2331,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://almaktoom.org/v2speed.php",
     "ok": true,
-    "http_ms": 1099,
+    "http_ms": 2460,
     "config_count": 2,
     "error": null
    }
   ],
   "main_servers": [
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.33.115:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-289",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.24.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-289",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.68.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-272",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.125.179:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-271",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.79.7:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-290",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.152.204:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.106.143:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-277",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.17.178:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271",
-   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.168.29:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H429",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.227.47:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@207.154.214.148:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-298",
-   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H484",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.56.18:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.25.113:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-282",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H141",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.230.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-278",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.166.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-286",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.175.119:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.241.228:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-285",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.41.9:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-279",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.14:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.229.45:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-283",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.32.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-273",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.84.112:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.73.8:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.167.102:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.27.220:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-273",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.227.138.62:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-294",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.200.20:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-286",
-   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.227.112.162:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-   "vless://60756ae9-fbcd-4ce8-8610-f3057d0ab110@201.79.2.118:15172?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.251.96:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany 265",
-   "vless://419281b0-a09d-46c5-91fe-f47d5fb24720@70.34.218.238:42129?type=tcp&encryption=none&security=none#Sweden V587",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.133.57:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@146.190.229.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.198.246:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H497",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@152.42.143.232:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.22.64:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@68.183.77.54:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.167.250:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281",
-   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.15.193:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H81",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.64.129:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.126.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.62.130:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-286",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.43.133:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-287",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.89.13.151:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.152.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@144.126.202.181:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-293",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@207.154.213.143:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.85.244:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-294",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.68.250:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@139.59.173.217:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-299",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.244.253:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.241.49:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.227.128.244:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.85:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.19.21:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-271",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.18.108:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
-   "vless://b099703f-e6ff-4fd9-a2d3-cdec27b119e1@139.59.189.205:440?type=tcp&encryption=none&security=none#United Kingdom D-77",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@178.62.230.68:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-287",
-   "vless://c187de97-b186-44d3-988c-f9bff73add1d@46.101.130.60:440?type=tcp&encryption=none&security=none#Germany D-77"
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@144.126.238.144:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-276",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@65.20.114.118:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Sweden V233",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.209.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
+   "vless://b3afc681-96cc-428d-bc25-9dadac758c83@157.245.47.68:11765?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-88",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@46.101.162.35:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.90.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
+   "vless://6d186df1-ceb3-4820-9214-3326f27b5eb3@46.101.231.125:53091?type=tcp&encryption=none&security=none#Germany D-87",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.97.33:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
   ],
   "splash_servers": [
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.228.170:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-287",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.20.238:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.131.94:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.110.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.170.78:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.58.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.161.204:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.174.55:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.164.241:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.31.60:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.17.246:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-286",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.123.180:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.25.1:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.165.91:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-279",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.255.28:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.151.83:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.64.4:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-298",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.120.73:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.130.184:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.26.248:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.118.7:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-287",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.135.204:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-278",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.219.220:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.108.179:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.115.17:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-297",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.182.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.183.99:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.255.244:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.227.112.162:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-   "vless://60756ae9-fbcd-4ce8-8610-f3057d0ab110@201.79.2.118:15172?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.251.96:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany 265",
-   "vless://419281b0-a09d-46c5-91fe-f47d5fb24720@70.34.218.238:42129?type=tcp&encryption=none&security=none#Sweden V587",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.133.57:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.180.239:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.80.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.71.197:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.204.208:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.196.71:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.244.33:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.26.136:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.159.128:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.219.152:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.196.26:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-284",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.73.215:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.252.6:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.208.214:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.168.138:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-283",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.120.82:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.160.10:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-272",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.171.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.75.70:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-299",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.246.206:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.234.68:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.221.72:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.181.106:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-   "vless://b099703f-e6ff-4fd9-a2d3-cdec27b119e1@139.59.189.205:440?type=tcp&encryption=none&security=none#United Kingdom D-77",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@178.62.230.68:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-287",
-   "vless://c187de97-b186-44d3-988c-f9bff73add1d@46.101.130.60:440?type=tcp&encryption=none&security=none#Germany D-77"
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@144.126.238.144:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-276",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@65.20.114.118:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Sweden V233",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.209.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
+   "vless://b3afc681-96cc-428d-bc25-9dadac758c83@157.245.47.68:11765?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-88",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@46.101.162.35:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.90.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
+   "vless://6d186df1-ceb3-4820-9214-3326f27b5eb3@46.101.231.125:53091?type=tcp&encryption=none&security=none#Germany D-87",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.97.33:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
   ],
   "app_config": {
    "dns_bean": {
@@ -301,8 +191,8 @@
     "fragment_packets": "tlshello"
    },
    "routing_setting": {
-    "enabled": "true",
-    "ruleset": "[\r\n  {\r\n    \"ip\": [\r\n      \"geoip:private\"\r\n    ],\r\n    \"outboundTag\": \"direct\",\r\n    \"type\": \"field\"\r\n  },\r\n  {\r\n    \"domain\": [\r\n      \"geosite:private\"\r\n    ],\r\n    \"outboundTag\": \"direct\",\r\n    \"type\": \"field\"\r\n  },\r\n  {\r\n    \"outboundTag\": \"proxy\",\r\n    \"port\": \"0-65535\",\r\n    \"type\": \"field\"\r\n  }\r\n]"
+    "enabled": "false",
+    "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
    }
   },
   "admob": {
@@ -313,7 +203,7 @@
    "max_ping": "30",
    "stop_time": 120,
    "bc": "ca-app-pub-7182999367757973/5083469895",
-   "time": 37,
+   "time": 50,
    "status": "off",
    "update": "off",
    "reward": "2294529",
@@ -322,7 +212,7 @@
    "dc": "2294528",
    "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
    "show_time": "30",
-   "show_time_splash": 30,
+   "show_time_splash": 60,
    "sp": "ca-app-pub-7182999367757973/5083469895",
    "sp_status": "on"
   },
@@ -337,7 +227,7 @@
     "+15",
     "+12"
    ],
-   "target": "8"
+   "target": "6"
   },
   "packages": [
    "com.android.chrome",
@@ -376,676 +266,7 @@
    "org.telegram.messenger.web"
   ],
   "raw_responses": {
-   "https://akhtarbuy.uk/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "8"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "true",
-      "ruleset": "[\r\n  {\r\n    \"ip\": [\r\n      \"geoip:private\"\r\n    ],\r\n    \"outboundTag\": \"direct\",\r\n    \"type\": \"field\"\r\n  },\r\n  {\r\n    \"domain\": [\r\n      \"geosite:private\"\r\n    ],\r\n    \"outboundTag\": \"direct\",\r\n    \"type\": \"field\"\r\n  },\r\n  {\r\n    \"outboundTag\": \"proxy\",\r\n    \"port\": \"0-65535\",\r\n    \"type\": \"field\"\r\n  }\r\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 37,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 30,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.33.115:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-289"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.24.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-289"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.68.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-272"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.125.179:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-271"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.79.7:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-290"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.152.204:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.106.143:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-277"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.17.178:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271"
-     },
-     {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.168.29:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H429"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.227.47:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@207.154.214.148:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-298"
-     },
-     {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H484"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.56.18:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.25.113:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-282"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H141"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.230.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-278"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.166.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-286"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.175.119:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.241.228:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-285"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.41.9:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-279"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.14:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.229.45:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-283"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.32.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-273"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.84.112:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.73.8:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.167.102:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.27.220:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-273"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.227.138.62:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-294"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.200.20:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-286"
-     },
-     {
-      "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.228.170:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-287"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.20.238:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.131.94:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.110.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.170.78:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.58.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.161.204:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.174.55:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.164.241:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.31.60:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.17.246:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-286"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.123.180:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.25.1:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.165.91:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-279"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.255.28:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.151.83:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.64.4:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-298"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.120.73:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.130.184:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.26.248:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.118.7:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-287"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.135.204:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-278"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.219.220:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.108.179:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.115.17:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-297"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.182.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.183.99:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.255.244:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
-     }
-    ]
-   },
    "https://akhtarbuy.cc/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "6"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "false",
-      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 42,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 60,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.227.112.162:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.227.112.162:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282"
-     }
-    ]
-   },
-   "https://akhtarbuy.net/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "12"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "false",
-      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 47,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 60,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://60756ae9-fbcd-4ce8-8610-f3057d0ab110@201.79.2.118:15172?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://60756ae9-fbcd-4ce8-8610-f3057d0ab110@201.79.2.118:15172?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78"
-     }
-    ]
-   },
-   "https://akhtarbuy.org/v2speed.php": {
     "gardone": {
      "items": [
       "+9",
@@ -1199,12 +420,338 @@
     ],
     "servers": [
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.251.96:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany 265"
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@144.126.238.144:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-276"
      }
     ],
     "splash": [
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.251.96:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany 265"
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@144.126.238.144:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-276"
+     }
+    ]
+   },
+   "https://akhtarbuy.net/v2speed.php": {
+    "gardone": {
+     "items": [
+      "+9",
+      "+5",
+      "+10",
+      "+8",
+      "+6",
+      "+20",
+      "+15",
+      "+12"
+     ],
+     "target": "12"
+    },
+    "appConfig": {
+     "dns_bean": {
+      "servers": [
+       "1.1.1.1"
+      ],
+      "hosts": {
+       "domain:googleapis.cn": "googleapis.com",
+       "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+       ],
+       "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+       ],
+       "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+       ],
+       "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+       ],
+       "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+       ],
+       "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+       ]
+      }
+     },
+     "append_http_proxy": "false",
+     "routing_domain_strategy": "AsIs",
+     "enable_sniffing": "true",
+     "enable_route_only": "false",
+     "prefer_ipv6": "false",
+     "vpn_dns": "1.1.1.1",
+     "local_proxy_port": "10450",
+     "test_url": "https://gstatic.com/generate_204",
+     "allow_insecure": "false",
+     "remote_dns": "1.1.1.1",
+     "domestic_dns": "223.5.5.5",
+     "per_app_proxy": {
+      "enabled": "true",
+      "bypass_apps": "true"
+     },
+     "enable_local_dns": {
+      "enabled": "false",
+      "enable_fake_dns": "false",
+      "local_dns_port": "10853"
+     },
+     "mux": {
+      "enabled": "false",
+      "tcp_connections": "8",
+      "xupd_connections": "8",
+      "handling_quic_in_mux": "reject"
+     },
+     "fragment": {
+      "enabled": "false",
+      "fragment_len": "50-100",
+      "fragment_interval": "10-20",
+      "fragment_packets": "tlshello"
+     },
+     "routing_setting": {
+      "enabled": "false",
+      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
+     }
+    },
+    "domains": "nil",
+    "admob": {
+     "ads_immersive_mode_enabled": "true",
+     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
+     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
+     "op_update": "false",
+     "max_ping": "30",
+     "stop_time": 120,
+     "bc": "ca-app-pub-7182999367757973/5083469895",
+     "time": 46,
+     "status": "off",
+     "update": "off",
+     "reward": "2294529",
+     "app-id": "ca-app-pub-7182999367757973~3927747778",
+     "ac": "2294527",
+     "dc": "2294528",
+     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
+     "show_time": "30",
+     "show_time_splash": 60,
+     "sp": "ca-app-pub-7182999367757973/5083469895",
+     "sp_status": "on"
+    },
+    "packages": [
+     "com.android.chrome",
+     "com.opera.browser",
+     "org.mozilla.firefox",
+     "com.brave.browser",
+     "org.torproject.torbrowser",
+     "com.duckduckgo.mobile.android",
+     "com.sec.android.app.sbrowser",
+     "com.microsoft.emmx",
+     "com.transsion.phoenix",
+     "com.yandex.browser",
+     "com.opera.mini.native.beta",
+     "com.chrome.beta",
+     "com.android.vending",
+     "com.google.android.googlequicksearchbox",
+     "com.heytap.browser",
+     "com.mi.globalbrowser",
+     "com.UCMobile.intl"
+    ],
+    "blocked_packages": [
+     "com.instagram.android",
+     "com.facebook.katana",
+     "ir.ilmili.telegraph",
+     "org.thunderdog.challegram",
+     "org.telegram.plus",
+     "org.telegram.messenger",
+     "com.zhiliaoapp.musically",
+     "com.snapchat.android",
+     "com.google.android.youtube",
+     "com.whatsapp",
+     "com.whatsapp.w4b",
+     "com.viber.voip",
+     "jp.naver.line.android",
+     "org.thoughtcrime.securesms",
+     "org.telegram.messenger.web"
+    ],
+    "servers": [
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@65.20.114.118:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Sweden V233"
+     }
+    ],
+    "splash": [
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@65.20.114.118:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Sweden V233"
+     }
+    ]
+   },
+   "https://akhtarbuy.org/v2speed.php": {
+    "gardone": {
+     "items": [
+      "+9",
+      "+5",
+      "+10",
+      "+8",
+      "+6",
+      "+20",
+      "+15",
+      "+12"
+     ],
+     "target": "6"
+    },
+    "appConfig": {
+     "dns_bean": {
+      "servers": [
+       "1.1.1.1"
+      ],
+      "hosts": {
+       "domain:googleapis.cn": "googleapis.com",
+       "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+       ],
+       "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+       ],
+       "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+       ],
+       "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+       ],
+       "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+       ],
+       "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+       ]
+      }
+     },
+     "append_http_proxy": "false",
+     "routing_domain_strategy": "AsIs",
+     "enable_sniffing": "true",
+     "enable_route_only": "false",
+     "prefer_ipv6": "false",
+     "vpn_dns": "1.1.1.1",
+     "local_proxy_port": "10450",
+     "test_url": "https://gstatic.com/generate_204",
+     "allow_insecure": "false",
+     "remote_dns": "1.1.1.1",
+     "domestic_dns": "223.5.5.5",
+     "per_app_proxy": {
+      "enabled": "true",
+      "bypass_apps": "true"
+     },
+     "enable_local_dns": {
+      "enabled": "false",
+      "enable_fake_dns": "false",
+      "local_dns_port": "10853"
+     },
+     "mux": {
+      "enabled": "false",
+      "tcp_connections": "8",
+      "xupd_connections": "8",
+      "handling_quic_in_mux": "reject"
+     },
+     "fragment": {
+      "enabled": "false",
+      "fragment_len": "50-100",
+      "fragment_interval": "10-20",
+      "fragment_packets": "tlshello"
+     },
+     "routing_setting": {
+      "enabled": "false",
+      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
+     }
+    },
+    "domains": "nil",
+    "admob": {
+     "ads_immersive_mode_enabled": "true",
+     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
+     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
+     "op_update": "false",
+     "max_ping": "30",
+     "stop_time": 120,
+     "bc": "ca-app-pub-7182999367757973/5083469895",
+     "time": 48,
+     "status": "off",
+     "update": "off",
+     "reward": "2294529",
+     "app-id": "ca-app-pub-7182999367757973~3927747778",
+     "ac": "2294527",
+     "dc": "2294528",
+     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
+     "show_time": "30",
+     "show_time_splash": 60,
+     "sp": "ca-app-pub-7182999367757973/5083469895",
+     "sp_status": "on"
+    },
+    "packages": [
+     "com.android.chrome",
+     "com.opera.browser",
+     "org.mozilla.firefox",
+     "com.brave.browser",
+     "org.torproject.torbrowser",
+     "com.duckduckgo.mobile.android",
+     "com.sec.android.app.sbrowser",
+     "com.microsoft.emmx",
+     "com.transsion.phoenix",
+     "com.yandex.browser",
+     "com.opera.mini.native.beta",
+     "com.chrome.beta",
+     "com.android.vending",
+     "com.google.android.googlequicksearchbox",
+     "com.heytap.browser",
+     "com.mi.globalbrowser",
+     "com.UCMobile.intl"
+    ],
+    "blocked_packages": [
+     "com.instagram.android",
+     "com.facebook.katana",
+     "ir.ilmili.telegraph",
+     "org.thunderdog.challegram",
+     "org.telegram.plus",
+     "org.telegram.messenger",
+     "com.zhiliaoapp.musically",
+     "com.snapchat.android",
+     "com.google.android.youtube",
+     "com.whatsapp",
+     "com.whatsapp.w4b",
+     "com.viber.voip",
+     "jp.naver.line.android",
+     "org.thoughtcrime.securesms",
+     "org.telegram.messenger.web"
+    ],
+    "servers": [
+     {
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.209.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295"
+     }
+    ],
+    "splash": [
+     {
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.209.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295"
      }
     ]
    },
@@ -1311,7 +858,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 48,
+     "time": 47,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -1362,522 +909,16 @@
     ],
     "servers": [
      {
-      "config": "vless://419281b0-a09d-46c5-91fe-f47d5fb24720@70.34.218.238:42129?type=tcp&encryption=none&security=none#Sweden V587"
+      "config": "vless://b3afc681-96cc-428d-bc25-9dadac758c83@157.245.47.68:11765?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-88"
      }
     ],
     "splash": [
      {
-      "config": "vless://419281b0-a09d-46c5-91fe-f47d5fb24720@70.34.218.238:42129?type=tcp&encryption=none&security=none#Sweden V587"
+      "config": "vless://b3afc681-96cc-428d-bc25-9dadac758c83@157.245.47.68:11765?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-88"
      }
     ]
    },
    "https://tmzara.com/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "12"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "false",
-      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 48,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 60,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.133.57:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.133.57:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
-     }
-    ]
-   },
-   "https://akhtarbuy.com/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "5"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "true",
-      "ruleset": "[\r\n  {\r\n    \"ip\": [\r\n      \"geoip:private\"\r\n    ],\r\n    \"outboundTag\": \"direct\",\r\n    \"type\": \"field\"\r\n  },\r\n  {\r\n    \"domain\": [\r\n      \"geosite:private\"\r\n    ],\r\n    \"outboundTag\": \"direct\",\r\n    \"type\": \"field\"\r\n  },\r\n  {\r\n    \"outboundTag\": \"proxy\",\r\n    \"port\": \"0-65535\",\r\n    \"type\": \"field\"\r\n  }\r\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 39,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 30,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@146.190.229.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.198.246:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H484"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H497"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@152.42.143.232:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.22.64:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@68.183.77.54:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.167.250:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281"
-     },
-     {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.15.193:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H81"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.64.129:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.126.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.62.130:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-286"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.43.133:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-287"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.89.13.151:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.152.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@144.126.202.181:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-293"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@207.154.213.143:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.85.244:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-294"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.68.250:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.25.113:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-282"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@139.59.173.217:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-299"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.244.253:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.241.49:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.227.128.244:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.41.9:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-279"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.85:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.19.21:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-271"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.18.108:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.125.179:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-271"
-     },
-     {
-      "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.180.239:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.80.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.71.197:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.151.83:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.174.55:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.115.17:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-297"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.204.208:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.196.71:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.110.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.244.33:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.26.136:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.159.128:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.219.152:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.196.26:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-284"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.73.215:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.252.6:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.208.214:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.168.138:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-283"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.120.82:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.160.10:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-272"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.255.28:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.123.180:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.171.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.75.70:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-299"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.246.206:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.234.68:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.221.72:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.181.106:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
-     },
-     {
-      "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
-     }
-    ]
-   },
-   "https://sirjanha.com/v2speed.php": {
     "gardone": {
      "items": [
       "+9",
@@ -1980,7 +1021,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 44,
+     "time": 46,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -2031,179 +1072,16 @@
     ],
     "servers": [
      {
-      "config": "vless://b099703f-e6ff-4fd9-a2d3-cdec27b119e1@139.59.189.205:440?type=tcp&encryption=none&security=none#United Kingdom D-77"
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@46.101.162.35:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275"
      }
     ],
     "splash": [
      {
-      "config": "vless://b099703f-e6ff-4fd9-a2d3-cdec27b119e1@139.59.189.205:440?type=tcp&encryption=none&security=none#United Kingdom D-77"
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@46.101.162.35:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275"
      }
     ]
    },
-   "https://piransharrudaw-events.com/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "12"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "false",
-      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 44,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 60,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@178.62.230.68:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-287"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@178.62.230.68:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-287"
-     }
-    ]
-   },
-   "https://almaktoom.org/v2speed.php": {
+   "https://sirjanha.com/v2speed.php": {
     "gardone": {
      "items": [
       "+9",
@@ -2357,12 +1235,338 @@
     ],
     "servers": [
      {
-      "config": "vless://c187de97-b186-44d3-988c-f9bff73add1d@46.101.130.60:440?type=tcp&encryption=none&security=none#Germany D-77"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.90.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
      }
     ],
     "splash": [
      {
-      "config": "vless://c187de97-b186-44d3-988c-f9bff73add1d@46.101.130.60:440?type=tcp&encryption=none&security=none#Germany D-77"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.90.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296"
+     }
+    ]
+   },
+   "https://piransharrudaw-events.com/v2speed.php": {
+    "gardone": {
+     "items": [
+      "+9",
+      "+5",
+      "+10",
+      "+8",
+      "+6",
+      "+20",
+      "+15",
+      "+12"
+     ],
+     "target": "12"
+    },
+    "appConfig": {
+     "dns_bean": {
+      "servers": [
+       "1.1.1.1"
+      ],
+      "hosts": {
+       "domain:googleapis.cn": "googleapis.com",
+       "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+       ],
+       "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+       ],
+       "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+       ],
+       "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+       ],
+       "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+       ],
+       "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+       ]
+      }
+     },
+     "append_http_proxy": "false",
+     "routing_domain_strategy": "AsIs",
+     "enable_sniffing": "true",
+     "enable_route_only": "false",
+     "prefer_ipv6": "false",
+     "vpn_dns": "1.1.1.1",
+     "local_proxy_port": "10450",
+     "test_url": "https://gstatic.com/generate_204",
+     "allow_insecure": "false",
+     "remote_dns": "1.1.1.1",
+     "domestic_dns": "223.5.5.5",
+     "per_app_proxy": {
+      "enabled": "true",
+      "bypass_apps": "true"
+     },
+     "enable_local_dns": {
+      "enabled": "false",
+      "enable_fake_dns": "false",
+      "local_dns_port": "10853"
+     },
+     "mux": {
+      "enabled": "false",
+      "tcp_connections": "8",
+      "xupd_connections": "8",
+      "handling_quic_in_mux": "reject"
+     },
+     "fragment": {
+      "enabled": "false",
+      "fragment_len": "50-100",
+      "fragment_interval": "10-20",
+      "fragment_packets": "tlshello"
+     },
+     "routing_setting": {
+      "enabled": "false",
+      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
+     }
+    },
+    "domains": "nil",
+    "admob": {
+     "ads_immersive_mode_enabled": "true",
+     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
+     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
+     "op_update": "false",
+     "max_ping": "30",
+     "stop_time": 120,
+     "bc": "ca-app-pub-7182999367757973/5083469895",
+     "time": 46,
+     "status": "off",
+     "update": "off",
+     "reward": "2294529",
+     "app-id": "ca-app-pub-7182999367757973~3927747778",
+     "ac": "2294527",
+     "dc": "2294528",
+     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
+     "show_time": "30",
+     "show_time_splash": 60,
+     "sp": "ca-app-pub-7182999367757973/5083469895",
+     "sp_status": "on"
+    },
+    "packages": [
+     "com.android.chrome",
+     "com.opera.browser",
+     "org.mozilla.firefox",
+     "com.brave.browser",
+     "org.torproject.torbrowser",
+     "com.duckduckgo.mobile.android",
+     "com.sec.android.app.sbrowser",
+     "com.microsoft.emmx",
+     "com.transsion.phoenix",
+     "com.yandex.browser",
+     "com.opera.mini.native.beta",
+     "com.chrome.beta",
+     "com.android.vending",
+     "com.google.android.googlequicksearchbox",
+     "com.heytap.browser",
+     "com.mi.globalbrowser",
+     "com.UCMobile.intl"
+    ],
+    "blocked_packages": [
+     "com.instagram.android",
+     "com.facebook.katana",
+     "ir.ilmili.telegraph",
+     "org.thunderdog.challegram",
+     "org.telegram.plus",
+     "org.telegram.messenger",
+     "com.zhiliaoapp.musically",
+     "com.snapchat.android",
+     "com.google.android.youtube",
+     "com.whatsapp",
+     "com.whatsapp.w4b",
+     "com.viber.voip",
+     "jp.naver.line.android",
+     "org.thoughtcrime.securesms",
+     "org.telegram.messenger.web"
+    ],
+    "servers": [
+     {
+      "config": "vless://6d186df1-ceb3-4820-9214-3326f27b5eb3@46.101.231.125:53091?type=tcp&encryption=none&security=none#Germany D-87"
+     }
+    ],
+    "splash": [
+     {
+      "config": "vless://6d186df1-ceb3-4820-9214-3326f27b5eb3@46.101.231.125:53091?type=tcp&encryption=none&security=none#Germany D-87"
+     }
+    ]
+   },
+   "https://almaktoom.org/v2speed.php": {
+    "gardone": {
+     "items": [
+      "+9",
+      "+5",
+      "+10",
+      "+8",
+      "+6",
+      "+20",
+      "+15",
+      "+12"
+     ],
+     "target": "8"
+    },
+    "appConfig": {
+     "dns_bean": {
+      "servers": [
+       "1.1.1.1"
+      ],
+      "hosts": {
+       "domain:googleapis.cn": "googleapis.com",
+       "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+       ],
+       "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+       ],
+       "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+       ],
+       "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+       ],
+       "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+       ],
+       "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+       ]
+      }
+     },
+     "append_http_proxy": "false",
+     "routing_domain_strategy": "AsIs",
+     "enable_sniffing": "true",
+     "enable_route_only": "false",
+     "prefer_ipv6": "false",
+     "vpn_dns": "1.1.1.1",
+     "local_proxy_port": "10450",
+     "test_url": "https://gstatic.com/generate_204",
+     "allow_insecure": "false",
+     "remote_dns": "1.1.1.1",
+     "domestic_dns": "223.5.5.5",
+     "per_app_proxy": {
+      "enabled": "true",
+      "bypass_apps": "true"
+     },
+     "enable_local_dns": {
+      "enabled": "false",
+      "enable_fake_dns": "false",
+      "local_dns_port": "10853"
+     },
+     "mux": {
+      "enabled": "false",
+      "tcp_connections": "8",
+      "xupd_connections": "8",
+      "handling_quic_in_mux": "reject"
+     },
+     "fragment": {
+      "enabled": "false",
+      "fragment_len": "50-100",
+      "fragment_interval": "10-20",
+      "fragment_packets": "tlshello"
+     },
+     "routing_setting": {
+      "enabled": "false",
+      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
+     }
+    },
+    "domains": "nil",
+    "admob": {
+     "ads_immersive_mode_enabled": "true",
+     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
+     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
+     "op_update": "false",
+     "max_ping": "30",
+     "stop_time": 120,
+     "bc": "ca-app-pub-7182999367757973/5083469895",
+     "time": 48,
+     "status": "off",
+     "update": "off",
+     "reward": "2294529",
+     "app-id": "ca-app-pub-7182999367757973~3927747778",
+     "ac": "2294527",
+     "dc": "2294528",
+     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
+     "show_time": "30",
+     "show_time_splash": 60,
+     "sp": "ca-app-pub-7182999367757973/5083469895",
+     "sp_status": "on"
+    },
+    "packages": [
+     "com.android.chrome",
+     "com.opera.browser",
+     "org.mozilla.firefox",
+     "com.brave.browser",
+     "org.torproject.torbrowser",
+     "com.duckduckgo.mobile.android",
+     "com.sec.android.app.sbrowser",
+     "com.microsoft.emmx",
+     "com.transsion.phoenix",
+     "com.yandex.browser",
+     "com.opera.mini.native.beta",
+     "com.chrome.beta",
+     "com.android.vending",
+     "com.google.android.googlequicksearchbox",
+     "com.heytap.browser",
+     "com.mi.globalbrowser",
+     "com.UCMobile.intl"
+    ],
+    "blocked_packages": [
+     "com.instagram.android",
+     "com.facebook.katana",
+     "ir.ilmili.telegraph",
+     "org.thunderdog.challegram",
+     "org.telegram.plus",
+     "org.telegram.messenger",
+     "com.zhiliaoapp.musically",
+     "com.snapchat.android",
+     "com.google.android.youtube",
+     "com.whatsapp",
+     "com.whatsapp.w4b",
+     "com.viber.voip",
+     "jp.naver.line.android",
+     "org.thoughtcrime.securesms",
+     "org.telegram.messenger.web"
+    ],
+    "servers": [
+     {
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.97.33:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
+     }
+    ],
+    "splash": [
+     {
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.97.33:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
      }
     ]
    }
@@ -2511,64 +1715,64 @@
    "configs": {
     "normal": [
      {
-      "id": 43257147,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"128d1209-9e9f-4952-9faf-df47ae3648d2\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"gr1.iekub2dvkb.space\"},\"xhttpSettings\":{\"host\":\"gr1.iekub2dvkb.space\",\"path\":\"/adycongr\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"GR1\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258295,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"128d1209-9e9f-4952-9faf-df47ae3648d2\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"gr3.bvyt71qn5r.space\"},\"xhttpSettings\":{\"host\":\"gr3.bvyt71qn5r.space\",\"path\":\"/adycongr\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"GR3\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "DE",
       "regions": ""
      },
      {
-      "id": 43257166,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"128d1209-9e9f-4952-9faf-df47ae3648d2\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"gr2.iekub2dvkb.space\"},\"xhttpSettings\":{\"host\":\"gr2.iekub2dvkb.space\",\"path\":\"/adycongr\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"GR2\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258317,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"128d1209-9e9f-4952-9faf-df47ae3648d2\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"gr1.bvyt71qn5r.space\"},\"xhttpSettings\":{\"host\":\"gr1.bvyt71qn5r.space\",\"path\":\"/adycongr\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"GR1\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "DE",
       "regions": ""
      },
      {
-      "id": 43257185,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"128d1209-9e9f-4952-9faf-df47ae3648d2\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"gr3.iekub2dvkb.space\"},\"xhttpSettings\":{\"host\":\"gr3.iekub2dvkb.space\",\"path\":\"/adycongr\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"GR3\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258347,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"128d1209-9e9f-4952-9faf-df47ae3648d2\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"gr2.bvyt71qn5r.space\"},\"xhttpSettings\":{\"host\":\"gr2.bvyt71qn5r.space\",\"path\":\"/adycongr\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"GR2\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "DE",
       "regions": ""
      },
      {
-      "id": 43257204,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"337bf72e-bb79-4d5f-be3f-7822eb77100c\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"uk1.m0e5qk6jsg.space\"},\"xhttpSettings\":{\"host\":\"uk1.m0e5qk6jsg.space\",\"path\":\"/adyconuk\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"UK1\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
-      "country": "GB",
-      "regions": ""
-     },
-     {
-      "id": 43257223,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"337bf72e-bb79-4d5f-be3f-7822eb77100c\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"uk2.m0e5qk6jsg.space\"},\"xhttpSettings\":{\"host\":\"uk2.m0e5qk6jsg.space\",\"path\":\"/adyconuk\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"UK2\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
-      "country": "GB",
-      "regions": ""
-     },
-     {
-      "id": 43257251,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"337bf72e-bb79-4d5f-be3f-7822eb77100c\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"uk3.m0e5qk6jsg.space\"},\"xhttpSettings\":{\"host\":\"uk3.m0e5qk6jsg.space\",\"path\":\"/adyconuk\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"UK3\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
-      "country": "GB",
-      "regions": ""
-     },
-     {
-      "id": 43257272,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"e999db7a-1b17-4da6-bc37-c9fa24af2e93\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"nl1.mi06b1gcbw.space\"},\"xhttpSettings\":{\"host\":\"nl1.mi06b1gcbw.space\",\"path\":\"/adyconnl\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"NL1\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258460,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"e999db7a-1b17-4da6-bc37-c9fa24af2e93\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"nl2.uw67zwa747.space\"},\"xhttpSettings\":{\"host\":\"nl2.uw67zwa747.space\",\"path\":\"/adyconnl\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"NL2\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "NL",
       "regions": ""
      },
      {
-      "id": 43257300,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"e999db7a-1b17-4da6-bc37-c9fa24af2e93\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"nl2.mi06b1gcbw.space\"},\"xhttpSettings\":{\"host\":\"nl2.mi06b1gcbw.space\",\"path\":\"/adyconnl\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"NL2\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258466,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"e999db7a-1b17-4da6-bc37-c9fa24af2e93\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"nl1.uw67zwa747.space\"},\"xhttpSettings\":{\"host\":\"nl1.uw67zwa747.space\",\"path\":\"/adyconnl\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"NL1\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "NL",
       "regions": ""
      },
      {
-      "id": 43257328,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"e999db7a-1b17-4da6-bc37-c9fa24af2e93\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"nl3.mi06b1gcbw.space\"},\"xhttpSettings\":{\"host\":\"nl3.mi06b1gcbw.space\",\"path\":\"/adyconnl\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"NL3\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258538,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"e999db7a-1b17-4da6-bc37-c9fa24af2e93\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"nl3.uw67zwa747.space\"},\"xhttpSettings\":{\"host\":\"nl3.uw67zwa747.space\",\"path\":\"/adyconnl\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"NL3\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "NL",
+      "regions": ""
+     },
+     {
+      "id": 43259100,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"337bf72e-bb79-4d5f-be3f-7822eb77100c\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"uk2.1m7sgc25pd.space\"},\"xhttpSettings\":{\"host\":\"uk2.1m7sgc25pd.space\",\"path\":\"/adyconuk\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"UK2\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43259103,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"337bf72e-bb79-4d5f-be3f-7822eb77100c\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"uk1.1m7sgc25pd.space\"},\"xhttpSettings\":{\"host\":\"uk1.1m7sgc25pd.space\",\"path\":\"/adyconuk\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"UK1\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43259132,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"337bf72e-bb79-4d5f-be3f-7822eb77100c\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"uk3.1m7sgc25pd.space\"},\"xhttpSettings\":{\"host\":\"uk3.1m7sgc25pd.space\",\"path\":\"/adyconuk\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"UK3\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "country": "GB",
       "regions": ""
      }
     ],
     "smart": [
      {
-      "id": 43257123,
-      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"0fc0e114-8ed6-4c8e-931e-7e3674929750\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"lb.mavorenzi.store\"},\"xhttpSettings\":{\"host\":\"lb.mavorenzi.store\",\"path\":\"/adyconlb\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"LB\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
+      "id": 43258158,
+      "config": "{\"dns\":{\"servers\":[\"https://cloudflare-dns.com/dns-query\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true,\"tag\":\"domestic-dns_0_0\"},{\"address\":\"223.5.5.5\",\"domains\":[\"domain:ir\",\"geosite:category-ir\"],\"skipFallback\":true,\"tag\":\"domestic-dns_1_0\"}],\"tag\":\"dns-module\"},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"socks\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{},\"sniffing\":{\"destOverride\":[\"http\",\"tls\",\"quic\"],\"enabled\":true,\"routeOnly\":false},\"tag\":\"http\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"104.21.70.21\",\"encryption\":\"none\",\"id\":\"0fc0e114-8ed6-4c8e-931e-7e3674929750\",\"port\":2087},\"streamSettings\":{\"finalmask\":{\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]},\"network\":\"xhttp\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\"],\"cipherSuites\":\"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\",\"fingerprint\":\"unsafe\",\"serverName\":\"lb.torvialex.store\"},\"xhttpSettings\":{\"host\":\"lb.torvialex.store\",\"path\":\"/adyconlb\",\"mode\":\"stream-one\"}},\"tag\":\"proxy\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"LB\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"type\":\"field\"},{\"ip\":[\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"127.0.0.0/8\",\"::1/128\",\"fc00::/7\",\"fe80::/10\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\",\"domain:ir\",\"geosite:category-ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns_0_0\",\"domestic-dns_1_0\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"dns-module\"],\"outboundTag\":\"proxy\",\"type\":\"field\"}]}}",
       "country": "GO",
       "regions": ""
      }
@@ -2692,135 +1896,20 @@
   }
  },
  "all_configs": [
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.33.115:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-289",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.24.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-289",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.68.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-272",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.125.179:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-271",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.79.7:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-290",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.152.204:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.106.143:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-277",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.17.178:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271",
-  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.168.29:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H429",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.227.47:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@207.154.214.148:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-298",
-  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H484",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.56.18:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.25.113:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-282",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H141",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.230.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-278",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.166.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-286",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.175.119:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.241.228:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-285",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.41.9:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-279",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.14:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.229.45:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-283",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.32.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-273",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.84.112:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.73.8:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.167.102:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.27.220:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-273",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.227.138.62:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-294",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.200.20:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-286",
-  "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3",
-  "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.227.112.162:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-  "vless://60756ae9-fbcd-4ce8-8610-f3057d0ab110@201.79.2.118:15172?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.251.96:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany 265",
-  "vless://419281b0-a09d-46c5-91fe-f47d5fb24720@70.34.218.238:42129?type=tcp&encryption=none&security=none#Sweden V587",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.133.57:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@146.190.229.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.198.246:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H497",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@152.42.143.232:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.22.64:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@68.183.77.54:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.167.250:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281",
-  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.15.193:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H81",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.64.129:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.126.223:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.65.62.130:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-286",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.43.133:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-287",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.89.13.151:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@138.68.152.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@144.126.202.181:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-293",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@207.154.213.143:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.85.244:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-294",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.68.250:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@139.59.173.217:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-299",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.244.253:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.241.49:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.227.128.244:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.85:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.19.21:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-271",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.18.108:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
-  "vless://b099703f-e6ff-4fd9-a2d3-cdec27b119e1@139.59.189.205:440?type=tcp&encryption=none&security=none#United Kingdom D-77",
-  "vless://603819a3-dd65-408a-abab-15d8dc49887f@178.62.230.68:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-287",
-  "vless://c187de97-b186-44d3-988c-f9bff73add1d@46.101.130.60:440?type=tcp&encryption=none&security=none#Germany D-77",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.228.170:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-287",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.20.238:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.131.94:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.110.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-288",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.170.78:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.58.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.161.204:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.174.55:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.164.241:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.31.60:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.17.246:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-286",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.123.180:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.25.1:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-295",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.165.91:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-279",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.255.28:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.151.83:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.64.4:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-298",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.120.73:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.130.184:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@206.81.26.248:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.118.7:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-287",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.135.204:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-278",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.219.220:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.108.179:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.115.17:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-297",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.182.175:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.183.99:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.255.244:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.180.239:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.80.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.71.197:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-291",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.99.155:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-292",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.204.208:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.196.71:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-282",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.244.33:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.26.136:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.159.128:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.219.152:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@178.128.196.26:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-284",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.73.215:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-270",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.252.6:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.208.214:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.168.138:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-283",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.120.82:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-274",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.160.10:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-272",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.171.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.75.70:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-299",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.246.206:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-280",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.234.68:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-277",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.221.72:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-271",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.181.106:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-285"
+  "vless://603819a3-dd65-408a-abab-15d8dc49887f@144.126.238.144:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-276",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@65.20.114.118:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Sweden V233",
+  "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.209.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
+  "vless://b3afc681-96cc-428d-bc25-9dadac758c83@157.245.47.68:11765?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-88",
+  "vless://603819a3-dd65-408a-abab-15d8dc49887f@46.101.162.35:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-275",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.90.116:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-296",
+  "vless://6d186df1-ceb3-4820-9214-3326f27b5eb3@46.101.231.125:53091?type=tcp&encryption=none&security=none#Germany D-87",
+  "vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.97.33:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
  ],
  "server_uuids": [
   "18f1b94e-35f1-4c7f-953c-7b4681c52339",
-  "419281b0-a09d-46c5-91fe-f47d5fb24720",
   "59906cb2-a61b-4cf3-b77b-5762ef61d2b0",
   "603819a3-dd65-408a-abab-15d8dc49887f",
-  "60756ae9-fbcd-4ce8-8610-f3057d0ab110",
-  "a223ebdb-2098-431a-96c3-38384188c93e",
-  "b099703f-e6ff-4fd9-a2d3-cdec27b119e1",
-  "c187de97-b186-44d3-988c-f9bff73add1d",
-  "cf990ae8-ee77-4436-aa3a-bbc2fb040c53",
-  "fd4b654f-9ae2-42c5-977b-6aa54e8e9a83"
+  "6d186df1-ceb3-4820-9214-3326f27b5eb3",
+  "b3afc681-96cc-428d-bc25-9dadac758c83"
  ]
 }
