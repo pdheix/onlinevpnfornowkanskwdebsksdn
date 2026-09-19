@@ -1,18 +1,18 @@
 {
- "updated_at_utc": "2026-09-19T21:28:09Z",
- "updated_at_tehran": "2026-09-20 00:28:09 (Iran Standard Time)",
+ "updated_at_utc": "2026-09-19T23:28:06Z",
+ "updated_at_tehran": "2026-09-20 02:28:06 (Iran Standard Time)",
  "summary": {
   "speedray_domains_total": 11,
   "speedray_domains_ok": 11,
   "speedray_domains_failed": 0,
-  "speedray_main_configs": 40,
+  "speedray_main_configs": 41,
   "speedray_splash_configs": 41,
-  "speedray_unique": 71,
+  "speedray_unique": 72,
   "shah_normal_configs": 18,
   "shah_smart_configs": 2,
   "shah_unique": 0,
   "shah_source_used": "api.gem-panel.com (اصلی)",
-  "unique_total": 71,
+  "unique_total": 72,
   "unique_uuids": 12
  },
  "speedray": {
@@ -20,165 +20,166 @@
    {
     "url": "https://akhtarbuy.uk/v2speed.php",
     "ok": true,
-    "http_ms": 586,
+    "http_ms": 597,
     "config_count": 62,
     "error": null
    },
    {
     "url": "https://akhtarbuy.ca/v2speed.php",
     "ok": true,
-    "http_ms": 2200,
+    "http_ms": 1868,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.cc/v2speed.php",
     "ok": true,
-    "http_ms": 2292,
+    "http_ms": 2244,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.net/v2speed.php",
     "ok": true,
-    "http_ms": 2343,
+    "http_ms": 2386,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.org/v2speed.php",
     "ok": true,
-    "http_ms": 2303,
+    "http_ms": 2408,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.work/v2speed.php",
     "ok": true,
-    "http_ms": 2190,
+    "http_ms": 2306,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://tmzara.com/v2speed.php",
     "ok": true,
-    "http_ms": 2249,
+    "http_ms": 2384,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://akhtarbuy.com/v2speed.php",
     "ok": true,
-    "http_ms": 1978,
+    "http_ms": 2349,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://sirjanha.com/v2speed.php",
     "ok": true,
-    "http_ms": 2272,
+    "http_ms": 2356,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://piransharrudaw-events.com/v2speed.php",
     "ok": true,
-    "http_ms": 674,
+    "http_ms": 767,
     "config_count": 2,
     "error": null
    },
    {
     "url": "https://almaktoom.org/v2speed.php",
     "ok": true,
-    "http_ms": 2346,
+    "http_ms": 2324,
     "config_count": 2,
     "error": null
    }
   ],
   "main_servers": [
-   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.251:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H892",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@201.79.1.170:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-272",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.108.6:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.183:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.208.45:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-298",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.153.155:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.220.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-293",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.94.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-273",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.71.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.29:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
    "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.227.127.174:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-286",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.66.112:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.6.59:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-284",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.227.78.185:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-299",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.253.226:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.108.10:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-272",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.81.30.170:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.14.106:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-282",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.47.6:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-282",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.98.33:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.6.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.206.12:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.73.220:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-281",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.74.206:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-278",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.96.47:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@146.190.227.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-284",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.11.208:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-292",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@142.93.229.98:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-293",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.32.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.213.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-279",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.173:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H914",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.85.228:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.68.14:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.49.221:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-288",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.232.202:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.46.243:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H141",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.8.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.224.159:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.52:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H990",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.182.111:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-293",
+   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H724",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H258",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.87.198:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.207.249:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-296",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.1.150:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.66.50:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.27:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-292",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.10.205:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-291",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.87.37:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.33.136:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-271",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.108.226:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-273",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.39.204:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-286",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.226.95.182:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-290",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.100.83:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-297",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.0.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-289",
    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3",
-   "vless://6c2dcd99-d0b5-4d63-940e-58e3781ffb90@164.92.133.180:43830?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87",
-   "vless://121f9a09-d8e4-4503-95ea-3f97dbd9ff54@104.248.41.111:34103?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94",
-   "vless://f485afce-05e0-47e1-8769-b8bbe890f2fc@178.62.80.156:33091?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99",
-   "vless://d677e967-0ea8-4907-a816-132af88b1f1f@157.230.102.138:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-84",
-   "vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@157.230.21.151:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.27.139:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-283",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.236.104:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.226.120:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-   "vless://54e53e51-25f5-4a25-82f7-5ed9c54f338f@164.92.135.116:12440?type=tcp&encryption=none&security=none#Germany D-85",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@167.99.90.210:443?encryption=none&headerType=http&host=diwork.com&path=%2F&security=none&type=tcp#United Kingdom D-276"
+   "vless://138837c3-a65a-4958-9b88-7f0d964cb5a8@161.35.19.97:30714?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#Germany D-1090",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.194.90:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.30.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-292",
+   "vless://582f6680-0375-4ebc-854e-6c14089b3de2@68.183.222.61:10865?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-97",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.245.255.11:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#nonor63",
+   "vless://dba19cc3-5fb8-4c8a-a72c-a22c8b940d5e@46.101.119.243:44058?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.46.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281",
+   "vless://c54c5e82-ce6d-443c-b114-bdfcf76271e3@209.38.93.84:20013?type=tcp&encryption=none&security=none#Australia D-76",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.93.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.147.13:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Australia D-276"
   ],
   "splash_servers": [
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.187.11:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.124.7:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.11.234:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.119.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.71.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.228.249:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.227.131:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.16.38:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.219.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.83.202:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.11.154:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.109.50:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.215.58:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.118.141:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.196.142:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.34.145:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.201.179:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.190.101:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.64.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.68.37:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.19.168:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.194.98:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.244.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.199.183:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.150.151:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.98.216:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.143.169:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.9.195:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.85.161:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.7.103:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.15.224:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.165.139:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.163.112:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.185.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.75.48:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.221.120:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.172.190:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.163.241:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.255.26:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
    "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.253.52:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.253.77:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.252.66:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.251.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.7.39:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.255.154:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.248.170:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.220.90:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.137.224:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.236.131:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.85.66:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.68.23:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.21.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.58.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.75.100:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.29.126:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.217.30:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.223.157:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.2.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.162.160:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO",
-   "vless://6c2dcd99-d0b5-4d63-940e-58e3781ffb90@164.92.133.180:43830?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87",
-   "vless://121f9a09-d8e4-4503-95ea-3f97dbd9ff54@104.248.41.111:34103?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94",
-   "vless://f485afce-05e0-47e1-8769-b8bbe890f2fc@178.62.80.156:33091?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99",
-   "vless://d677e967-0ea8-4907-a816-132af88b1f1f@157.230.102.138:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-84",
-   "vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@157.230.21.151:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.27.139:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-283",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.236.104:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.226.120:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-   "vless://54e53e51-25f5-4a25-82f7-5ed9c54f338f@164.92.135.116:12440?type=tcp&encryption=none&security=none#Germany D-85",
-   "vless://603819a3-dd65-408a-abab-15d8dc49887f@167.99.90.210:443?encryption=none&headerType=http&host=diwork.com&path=%2F&security=none&type=tcp#United Kingdom D-276"
+   "vless://138837c3-a65a-4958-9b88-7f0d964cb5a8@161.35.19.97:30714?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#Germany D-1090",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.194.90:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.30.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-292",
+   "vless://582f6680-0375-4ebc-854e-6c14089b3de2@68.183.222.61:10865?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-97",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.245.255.11:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#nonor63",
+   "vless://dba19cc3-5fb8-4c8a-a72c-a22c8b940d5e@46.101.119.243:44058?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.46.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281",
+   "vless://c54c5e82-ce6d-443c-b114-bdfcf76271e3@209.38.93.84:20013?type=tcp&encryption=none&security=none#Australia D-76",
+   "vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.93.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
+   "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.147.13:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Australia D-276"
   ],
   "app_config": {
    "dns_bean": {
@@ -268,7 +269,7 @@
    "max_ping": "30",
    "stop_time": 120,
    "bc": "ca-app-pub-7182999367757973/5083469895",
-   "time": 38,
+   "time": 39,
    "status": "off",
    "update": "off",
    "reward": "2294529",
@@ -292,7 +293,7 @@
     "+15",
     "+12"
    ],
-   "target": "5"
+   "target": "10"
   },
   "packages": [
    "com.android.chrome",
@@ -343,7 +344,7 @@
       "+15",
       "+12"
      ],
-     "target": "5"
+     "target": "10"
     },
     "appConfig": {
      "dns_bean": {
@@ -434,7 +435,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 38,
+     "time": 39,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -485,94 +486,94 @@
     ],
     "servers": [
      {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.251:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H892"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@201.79.1.170:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-272"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.108.6:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.183:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.208.45:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-298"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.153.155:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.220.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-293"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.94.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-273"
-     },
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.71.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.29:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295"
      },
      {
       "config": "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.227.127.174:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-286"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.213.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-279"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.66.112:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.173:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H914"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.6.59:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-284"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.85.228:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.227.78.185:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-299"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.68.14:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.253.226:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.49.221:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-288"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.108.10:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-272"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.232.202:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.81.30.170:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.46.243:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.14.106:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-282"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H141"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.47.6:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-282"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.8.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.98.33:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.224.159:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.6.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.52:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H990"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.206.12:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.73.220:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-281"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.182.111:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-293"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.74.206:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-278"
+      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H724"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.96.47:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H258"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@146.190.227.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-284"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.87.198:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.11.208:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-292"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.207.249:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-296"
      },
      {
-      "config": "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.1.150:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@142.93.229.98:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-293"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.66.50:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294"
      },
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.32.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.27:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-292"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.10.205:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-291"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.87.37:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.33.136:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-271"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.108.226:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-273"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.39.204:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-286"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.226.95.182:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-290"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.100.83:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-297"
+     },
+     {
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.0.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-289"
      },
      {
       "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3"
@@ -580,94 +581,94 @@
     ],
     "splash": [
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.187.11:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.201.179:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.124.7:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.190.101:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.11.234:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.64.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.119.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.68.37:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.71.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.19.168:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.228.249:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.194.98:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.227.131:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.244.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.16.38:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.199.183:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.219.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.150.151:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.83.202:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.98.216:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.11.154:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.143.169:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.109.50:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.9.195:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.215.58:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.85.161:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.118.141:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.7.103:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.196.142:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.15.224:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.34.145:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.165.139:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.163.112:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.185.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.75.48:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.221.120:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.172.190:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.163.241:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+     },
+     {
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.255.26:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
       "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.253.52:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.253.77:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.75.100:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.252.66:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.29.126:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.251.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.217.30:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.7.39:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.223.157:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.255.154:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.2.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.248.170:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.220.90:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.137.224:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.236.131:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.85.66:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.68.23:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.21.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
-     },
-     {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.58.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.162.160:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
       "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
@@ -675,169 +676,6 @@
     ]
    },
    "https://akhtarbuy.ca/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "15"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "false",
-      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 47,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 60,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://6c2dcd99-d0b5-4d63-940e-58e3781ffb90@164.92.133.180:43830?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://6c2dcd99-d0b5-4d63-940e-58e3781ffb90@164.92.133.180:43830?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87"
-     }
-    ]
-   },
-   "https://akhtarbuy.cc/v2speed.php": {
     "gardone": {
      "items": [
       "+9",
@@ -940,7 +778,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 48,
+     "time": 44,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -991,16 +829,16 @@
     ],
     "servers": [
      {
-      "config": "vless://121f9a09-d8e4-4503-95ea-3f97dbd9ff54@104.248.41.111:34103?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94"
+      "config": "vless://138837c3-a65a-4958-9b88-7f0d964cb5a8@161.35.19.97:30714?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#Germany D-1090"
      }
     ],
     "splash": [
      {
-      "config": "vless://121f9a09-d8e4-4503-95ea-3f97dbd9ff54@104.248.41.111:34103?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94"
+      "config": "vless://138837c3-a65a-4958-9b88-7f0d964cb5a8@161.35.19.97:30714?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#Germany D-1090"
      }
     ]
    },
-   "https://akhtarbuy.net/v2speed.php": {
+   "https://akhtarbuy.cc/v2speed.php": {
     "gardone": {
      "items": [
       "+9",
@@ -1103,7 +941,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 45,
+     "time": 49,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -1154,16 +992,16 @@
     ],
     "servers": [
      {
-      "config": "vless://f485afce-05e0-47e1-8769-b8bbe890f2fc@178.62.80.156:33091?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.194.90:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270"
      }
     ],
     "splash": [
      {
-      "config": "vless://f485afce-05e0-47e1-8769-b8bbe890f2fc@178.62.80.156:33091?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.194.90:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270"
      }
     ]
    },
-   "https://akhtarbuy.org/v2speed.php": {
+   "https://akhtarbuy.net/v2speed.php": {
     "gardone": {
      "items": [
       "+9",
@@ -1317,12 +1155,175 @@
     ],
     "servers": [
      {
-      "config": "vless://d677e967-0ea8-4907-a816-132af88b1f1f@157.230.102.138:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-84"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.30.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-292"
      }
     ],
     "splash": [
      {
-      "config": "vless://d677e967-0ea8-4907-a816-132af88b1f1f@157.230.102.138:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-84"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.30.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-292"
+     }
+    ]
+   },
+   "https://akhtarbuy.org/v2speed.php": {
+    "gardone": {
+     "items": [
+      "+9",
+      "+5",
+      "+10",
+      "+8",
+      "+6",
+      "+20",
+      "+15",
+      "+12"
+     ],
+     "target": "8"
+    },
+    "appConfig": {
+     "dns_bean": {
+      "servers": [
+       "1.1.1.1"
+      ],
+      "hosts": {
+       "domain:googleapis.cn": "googleapis.com",
+       "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+       ],
+       "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+       ],
+       "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+       ],
+       "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+       ],
+       "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+       ],
+       "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+       ]
+      }
+     },
+     "append_http_proxy": "false",
+     "routing_domain_strategy": "AsIs",
+     "enable_sniffing": "true",
+     "enable_route_only": "false",
+     "prefer_ipv6": "false",
+     "vpn_dns": "1.1.1.1",
+     "local_proxy_port": "10450",
+     "test_url": "https://gstatic.com/generate_204",
+     "allow_insecure": "false",
+     "remote_dns": "1.1.1.1",
+     "domestic_dns": "223.5.5.5",
+     "per_app_proxy": {
+      "enabled": "true",
+      "bypass_apps": "true"
+     },
+     "enable_local_dns": {
+      "enabled": "false",
+      "enable_fake_dns": "false",
+      "local_dns_port": "10853"
+     },
+     "mux": {
+      "enabled": "false",
+      "tcp_connections": "8",
+      "xupd_connections": "8",
+      "handling_quic_in_mux": "reject"
+     },
+     "fragment": {
+      "enabled": "false",
+      "fragment_len": "50-100",
+      "fragment_interval": "10-20",
+      "fragment_packets": "tlshello"
+     },
+     "routing_setting": {
+      "enabled": "false",
+      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
+     }
+    },
+    "domains": "nil",
+    "admob": {
+     "ads_immersive_mode_enabled": "true",
+     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
+     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
+     "op_update": "false",
+     "max_ping": "30",
+     "stop_time": 120,
+     "bc": "ca-app-pub-7182999367757973/5083469895",
+     "time": 50,
+     "status": "off",
+     "update": "off",
+     "reward": "2294529",
+     "app-id": "ca-app-pub-7182999367757973~3927747778",
+     "ac": "2294527",
+     "dc": "2294528",
+     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
+     "show_time": "30",
+     "show_time_splash": 60,
+     "sp": "ca-app-pub-7182999367757973/5083469895",
+     "sp_status": "on"
+    },
+    "packages": [
+     "com.android.chrome",
+     "com.opera.browser",
+     "org.mozilla.firefox",
+     "com.brave.browser",
+     "org.torproject.torbrowser",
+     "com.duckduckgo.mobile.android",
+     "com.sec.android.app.sbrowser",
+     "com.microsoft.emmx",
+     "com.transsion.phoenix",
+     "com.yandex.browser",
+     "com.opera.mini.native.beta",
+     "com.chrome.beta",
+     "com.android.vending",
+     "com.google.android.googlequicksearchbox",
+     "com.heytap.browser",
+     "com.mi.globalbrowser",
+     "com.UCMobile.intl"
+    ],
+    "blocked_packages": [
+     "com.instagram.android",
+     "com.facebook.katana",
+     "ir.ilmili.telegraph",
+     "org.thunderdog.challegram",
+     "org.telegram.plus",
+     "org.telegram.messenger",
+     "com.zhiliaoapp.musically",
+     "com.snapchat.android",
+     "com.google.android.youtube",
+     "com.whatsapp",
+     "com.whatsapp.w4b",
+     "com.viber.voip",
+     "jp.naver.line.android",
+     "org.thoughtcrime.securesms",
+     "org.telegram.messenger.web"
+    ],
+    "servers": [
+     {
+      "config": "vless://582f6680-0375-4ebc-854e-6c14089b3de2@68.183.222.61:10865?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-97"
+     }
+    ],
+    "splash": [
+     {
+      "config": "vless://582f6680-0375-4ebc-854e-6c14089b3de2@68.183.222.61:10865?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-97"
      }
     ]
    },
@@ -1339,6 +1340,169 @@
       "+12"
      ],
      "target": "12"
+    },
+    "appConfig": {
+     "dns_bean": {
+      "servers": [
+       "1.1.1.1"
+      ],
+      "hosts": {
+       "domain:googleapis.cn": "googleapis.com",
+       "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+       ],
+       "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+       ],
+       "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+       ],
+       "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+       ],
+       "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+       ],
+       "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+       ]
+      }
+     },
+     "append_http_proxy": "false",
+     "routing_domain_strategy": "AsIs",
+     "enable_sniffing": "true",
+     "enable_route_only": "false",
+     "prefer_ipv6": "false",
+     "vpn_dns": "1.1.1.1",
+     "local_proxy_port": "10450",
+     "test_url": "https://gstatic.com/generate_204",
+     "allow_insecure": "false",
+     "remote_dns": "1.1.1.1",
+     "domestic_dns": "223.5.5.5",
+     "per_app_proxy": {
+      "enabled": "true",
+      "bypass_apps": "true"
+     },
+     "enable_local_dns": {
+      "enabled": "false",
+      "enable_fake_dns": "false",
+      "local_dns_port": "10853"
+     },
+     "mux": {
+      "enabled": "false",
+      "tcp_connections": "8",
+      "xupd_connections": "8",
+      "handling_quic_in_mux": "reject"
+     },
+     "fragment": {
+      "enabled": "false",
+      "fragment_len": "50-100",
+      "fragment_interval": "10-20",
+      "fragment_packets": "tlshello"
+     },
+     "routing_setting": {
+      "enabled": "false",
+      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
+     }
+    },
+    "domains": "nil",
+    "admob": {
+     "ads_immersive_mode_enabled": "true",
+     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
+     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
+     "op_update": "false",
+     "max_ping": "30",
+     "stop_time": 120,
+     "bc": "ca-app-pub-7182999367757973/5083469895",
+     "time": 46,
+     "status": "off",
+     "update": "off",
+     "reward": "2294529",
+     "app-id": "ca-app-pub-7182999367757973~3927747778",
+     "ac": "2294527",
+     "dc": "2294528",
+     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
+     "show_time": "30",
+     "show_time_splash": 60,
+     "sp": "ca-app-pub-7182999367757973/5083469895",
+     "sp_status": "on"
+    },
+    "packages": [
+     "com.android.chrome",
+     "com.opera.browser",
+     "org.mozilla.firefox",
+     "com.brave.browser",
+     "org.torproject.torbrowser",
+     "com.duckduckgo.mobile.android",
+     "com.sec.android.app.sbrowser",
+     "com.microsoft.emmx",
+     "com.transsion.phoenix",
+     "com.yandex.browser",
+     "com.opera.mini.native.beta",
+     "com.chrome.beta",
+     "com.android.vending",
+     "com.google.android.googlequicksearchbox",
+     "com.heytap.browser",
+     "com.mi.globalbrowser",
+     "com.UCMobile.intl"
+    ],
+    "blocked_packages": [
+     "com.instagram.android",
+     "com.facebook.katana",
+     "ir.ilmili.telegraph",
+     "org.thunderdog.challegram",
+     "org.telegram.plus",
+     "org.telegram.messenger",
+     "com.zhiliaoapp.musically",
+     "com.snapchat.android",
+     "com.google.android.youtube",
+     "com.whatsapp",
+     "com.whatsapp.w4b",
+     "com.viber.voip",
+     "jp.naver.line.android",
+     "org.thoughtcrime.securesms",
+     "org.telegram.messenger.web"
+    ],
+    "servers": [
+     {
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.245.255.11:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#nonor63"
+     }
+    ],
+    "splash": [
+     {
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.245.255.11:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#nonor63"
+     }
+    ]
+   },
+   "https://tmzara.com/v2speed.php": {
+    "gardone": {
+     "items": [
+      "+9",
+      "+5",
+      "+10",
+      "+8",
+      "+6",
+      "+20",
+      "+15",
+      "+12"
+     ],
+     "target": "15"
     },
     "appConfig": {
      "dns_bean": {
@@ -1480,175 +1644,12 @@
     ],
     "servers": [
      {
-      "config": "vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@157.230.21.151:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85"
+      "config": "vless://dba19cc3-5fb8-4c8a-a72c-a22c8b940d5e@46.101.119.243:44058?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94"
      }
     ],
     "splash": [
      {
-      "config": "vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@157.230.21.151:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85"
-     }
-    ]
-   },
-   "https://tmzara.com/v2speed.php": {
-    "gardone": {
-     "items": [
-      "+9",
-      "+5",
-      "+10",
-      "+8",
-      "+6",
-      "+20",
-      "+15",
-      "+12"
-     ],
-     "target": "6"
-    },
-    "appConfig": {
-     "dns_bean": {
-      "servers": [
-       "1.1.1.1"
-      ],
-      "hosts": {
-       "domain:googleapis.cn": "googleapis.com",
-       "dns.alidns.com": [
-        "223.5.5.5",
-        "223.6.6.6",
-        "2400:3200::1",
-        "2400:3200:baba::1"
-       ],
-       "one.one.one.one": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-       ],
-       "dot.pub": [
-        "1.12.12.12",
-        "120.53.53.53"
-       ],
-       "dns.google": [
-        "8.8.8.8",
-        "8.8.4.4",
-        "2001:4860:4860::8888",
-        "2001:4860:4860::8844"
-       ],
-       "dns.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.112",
-        "2620:fe::fe",
-        "2620:fe::9"
-       ],
-       "common.dot.dns.yandex.net": [
-        "77.88.8.8",
-        "77.88.8.1",
-        "2a02:6b8::feed:0ff",
-        "2a02:6b8:0:1::feed:0ff"
-       ]
-      }
-     },
-     "append_http_proxy": "false",
-     "routing_domain_strategy": "AsIs",
-     "enable_sniffing": "true",
-     "enable_route_only": "false",
-     "prefer_ipv6": "false",
-     "vpn_dns": "1.1.1.1",
-     "local_proxy_port": "10450",
-     "test_url": "https://gstatic.com/generate_204",
-     "allow_insecure": "false",
-     "remote_dns": "1.1.1.1",
-     "domestic_dns": "223.5.5.5",
-     "per_app_proxy": {
-      "enabled": "true",
-      "bypass_apps": "true"
-     },
-     "enable_local_dns": {
-      "enabled": "false",
-      "enable_fake_dns": "false",
-      "local_dns_port": "10853"
-     },
-     "mux": {
-      "enabled": "false",
-      "tcp_connections": "8",
-      "xupd_connections": "8",
-      "handling_quic_in_mux": "reject"
-     },
-     "fragment": {
-      "enabled": "false",
-      "fragment_len": "50-100",
-      "fragment_interval": "10-20",
-      "fragment_packets": "tlshello"
-     },
-     "routing_setting": {
-      "enabled": "false",
-      "ruleset": "[\n  {\n    \"ip\": [\n      \"geoip:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"domain\": [\n      \"geosite:private\"\n    ],\n    \"outboundTag\": \"direct\",\n    \"type\": \"field\"\n  },\n  {\n    \"outboundTag\": \"proxy\",\n    \"port\": \"0-65535\",\n    \"type\": \"field\"\n  }\n]"
-     }
-    },
-    "domains": "nil",
-    "admob": {
-     "ads_immersive_mode_enabled": "true",
-     "admob_sp": "ca-app-pub-7182999367757973/5083469895",
-     "admob_bc": "ca-app-pub-7182999367757973/5083469895",
-     "op_update": "false",
-     "max_ping": "30",
-     "stop_time": 120,
-     "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 45,
-     "status": "off",
-     "update": "off",
-     "reward": "2294529",
-     "app-id": "ca-app-pub-7182999367757973~3927747778",
-     "ac": "2294527",
-     "dc": "2294528",
-     "PackageName": "https://play.google.com/store/apps/details?id=com.studiospeedray.speedray",
-     "show_time": "30",
-     "show_time_splash": 60,
-     "sp": "ca-app-pub-7182999367757973/5083469895",
-     "sp_status": "on"
-    },
-    "packages": [
-     "com.android.chrome",
-     "com.opera.browser",
-     "org.mozilla.firefox",
-     "com.brave.browser",
-     "org.torproject.torbrowser",
-     "com.duckduckgo.mobile.android",
-     "com.sec.android.app.sbrowser",
-     "com.microsoft.emmx",
-     "com.transsion.phoenix",
-     "com.yandex.browser",
-     "com.opera.mini.native.beta",
-     "com.chrome.beta",
-     "com.android.vending",
-     "com.google.android.googlequicksearchbox",
-     "com.heytap.browser",
-     "com.mi.globalbrowser",
-     "com.UCMobile.intl"
-    ],
-    "blocked_packages": [
-     "com.instagram.android",
-     "com.facebook.katana",
-     "ir.ilmili.telegraph",
-     "org.thunderdog.challegram",
-     "org.telegram.plus",
-     "org.telegram.messenger",
-     "com.zhiliaoapp.musically",
-     "com.snapchat.android",
-     "com.google.android.youtube",
-     "com.whatsapp",
-     "com.whatsapp.w4b",
-     "com.viber.voip",
-     "jp.naver.line.android",
-     "org.thoughtcrime.securesms",
-     "org.telegram.messenger.web"
-    ],
-    "servers": [
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.27.139:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-283"
-     }
-    ],
-    "splash": [
-     {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.27.139:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-283"
+      "config": "vless://dba19cc3-5fb8-4c8a-a72c-a22c8b940d5e@46.101.119.243:44058?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94"
      }
     ]
    },
@@ -1755,7 +1756,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 45,
+     "time": 40,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -1806,12 +1807,12 @@
     ],
     "servers": [
      {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.236.104:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.46.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281"
      }
     ],
     "splash": [
      {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.236.104:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.46.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281"
      }
     ]
    },
@@ -1918,7 +1919,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 43,
+     "time": 44,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -1969,12 +1970,12 @@
     ],
     "servers": [
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.226.120:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277"
+      "config": "vless://c54c5e82-ce6d-443c-b114-bdfcf76271e3@209.38.93.84:20013?type=tcp&encryption=none&security=none#Australia D-76"
      }
     ],
     "splash": [
      {
-      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.226.120:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277"
+      "config": "vless://c54c5e82-ce6d-443c-b114-bdfcf76271e3@209.38.93.84:20013?type=tcp&encryption=none&security=none#Australia D-76"
      }
     ]
    },
@@ -1990,7 +1991,7 @@
       "+15",
       "+12"
      ],
-     "target": "8"
+     "target": "12"
     },
     "appConfig": {
      "dns_bean": {
@@ -2081,7 +2082,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/5083469895",
-     "time": 47,
+     "time": 40,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -2132,12 +2133,12 @@
     ],
     "servers": [
      {
-      "config": "vless://54e53e51-25f5-4a25-82f7-5ed9c54f338f@164.92.135.116:12440?type=tcp&encryption=none&security=none#Germany D-85"
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.93.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283"
      }
     ],
     "splash": [
      {
-      "config": "vless://54e53e51-25f5-4a25-82f7-5ed9c54f338f@164.92.135.116:12440?type=tcp&encryption=none&security=none#Germany D-85"
+      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.93.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283"
      }
     ]
    },
@@ -2153,7 +2154,7 @@
       "+15",
       "+12"
      ],
-     "target": "6"
+     "target": "10"
     },
     "appConfig": {
      "dns_bean": {
@@ -2295,12 +2296,12 @@
     ],
     "servers": [
      {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@167.99.90.210:443?encryption=none&headerType=http&host=diwork.com&path=%2F&security=none&type=tcp#United Kingdom D-276"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.147.13:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Australia D-276"
      }
     ],
     "splash": [
      {
-      "config": "vless://603819a3-dd65-408a-abab-15d8dc49887f@167.99.90.210:443?encryption=none&headerType=http&host=diwork.com&path=%2F&security=none&type=tcp#United Kingdom D-276"
+      "config": "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.147.13:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Australia D-276"
      }
     ]
    }
@@ -2434,7 +2435,7 @@
     }
    },
    "appUpdate": {
-    "appVersion": 500.3,
+    "appVersion": 700.3,
     "forceUpdate": false,
     "updateText": "نسخه های قدیمی به زودی غیر فعال خواهند شد لطفا برای استفاده از اپلیکیشن از اخرین ورژن استفاده کنید.",
     "englishUpdateText": "The previous versions will be disabled soon. Please use the latest version to use the application."
@@ -2682,7 +2683,7 @@
      }
     },
     "appUpdate": {
-     "appVersion": 500.3,
+     "appVersion": 700.3,
      "forceUpdate": false,
      "updateText": "نسخه های قدیمی به زودی غیر فعال خواهند شد لطفا برای استفاده از اپلیکیشن از اخرین ورژن استفاده کنید.",
      "englishUpdateText": "The previous versions will be disabled soon. Please use the latest version to use the application."
@@ -2691,90 +2692,91 @@
   }
  },
  "all_configs": [
-  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.251:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H892",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@201.79.1.170:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-272",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.108.6:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.183:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.99.208.45:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-298",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.153.155:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.220.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-293",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.94.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-273",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.71.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.156.29:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
   "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.227.127.174:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-286",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.66.112:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.6.59:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-284",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.227.78.185:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-299",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.253.226:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.108.10:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-272",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.81.30.170:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-276",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.14.106:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-282",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.47.6:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-282",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.98.33:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.6.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.90.206.12:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.73.220:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-281",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.74.206:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-278",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.96.47:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-295",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@146.190.227.91:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-284",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@167.71.11.208:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-292",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@142.93.229.98:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-293",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.32.201:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.213.26:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-279",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.173:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H914",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.85.228:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-280",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@157.245.68.14:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.122.49.221:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-288",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.232.202:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.46.243:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H141",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.8.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-276",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.62.224.159:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.52:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H990",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.56.67:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H592",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@164.92.182.111:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-293",
+  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H724",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany H258",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.87.198:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-279",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.22.207.249:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-296",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.1.150:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-274",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.66.50:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-294",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.55.27:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-292",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.10.205:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-291",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@161.35.87.37:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-275",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.33.136:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-271",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.108.226:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-273",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@209.38.39.204:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-286",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.226.95.182:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-290",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@206.189.100.83:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-297",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.0.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-289",
   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO3",
-  "vless://6c2dcd99-d0b5-4d63-940e-58e3781ffb90@164.92.133.180:43830?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87",
-  "vless://121f9a09-d8e4-4503-95ea-3f97dbd9ff54@104.248.41.111:34103?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94",
-  "vless://f485afce-05e0-47e1-8769-b8bbe890f2fc@178.62.80.156:33091?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99",
-  "vless://d677e967-0ea8-4907-a816-132af88b1f1f@157.230.102.138:440?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-84",
-  "vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@157.230.21.151:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@46.101.27.139:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-283",
-  "vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.236.104:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Germany D-281",
-  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@159.223.226.120:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-  "vless://54e53e51-25f5-4a25-82f7-5ed9c54f338f@164.92.135.116:12440?type=tcp&encryption=none&security=none#Germany D-85",
-  "vless://603819a3-dd65-408a-abab-15d8dc49887f@167.99.90.210:443?encryption=none&headerType=http&host=diwork.com&path=%2F&security=none&type=tcp#United Kingdom D-276",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.187.11:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.124.7:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.11.234:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.119.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.71.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@209.38.228.249:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.227.131:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.16.38:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.219.75:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.83.202:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.11.154:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.109.50:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.215.58:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.118.141:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.196.142:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.34.145:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://138837c3-a65a-4958-9b88-7f0d964cb5a8@161.35.19.97:30714?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#Germany D-1090",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@104.248.194.90:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-270",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.65.30.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-292",
+  "vless://582f6680-0375-4ebc-854e-6c14089b3de2@68.183.222.61:10865?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-97",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@165.245.255.11:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#nonor63",
+  "vless://dba19cc3-5fb8-4c8a-a72c-a22c8b940d5e@46.101.119.243:44058?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.46.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#United Kingdom D-281",
+  "vless://c54c5e82-ce6d-443c-b114-bdfcf76271e3@209.38.93.84:20013?type=tcp&encryption=none&security=none#Australia D-76",
+  "vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.93.215:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Netherlands D-283",
+  "vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@134.199.147.13:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Australia D-276",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.201.179:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.190.101:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@68.183.64.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.68.37:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.19.168:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.194.98:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.244.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.199.183:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@139.59.150.151:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.98.216:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.143.169:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.9.195:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.85.161:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.7.103:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.15.224:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.172.165.139:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.163.112:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.185.250:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.75.48:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.221.120:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.227.172.190:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.163.241:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.255.26:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.253.52:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.253.77:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@104.248.252.66:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.251.13:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.7.39:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.255.154:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.248.170:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.220.90:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.137.224:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@207.154.236.131:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.85.66:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.68.23:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.89.21.15:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.58.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.75.100:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@157.230.29.126:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.217.30:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.90.223.157:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.2.144:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@142.93.162.160:440?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#changiz88",
   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
  ],
  "server_uuids": [
-  "121f9a09-d8e4-4503-95ea-3f97dbd9ff54",
+  "138837c3-a65a-4958-9b88-7f0d964cb5a8",
   "18f1b94e-35f1-4c7f-953c-7b4681c52339",
-  "1aa1b792-e3ca-4264-85b0-b0e629e00485",
-  "54e53e51-25f5-4a25-82f7-5ed9c54f338f",
+  "582f6680-0375-4ebc-854e-6c14089b3de2",
   "59906cb2-a61b-4cf3-b77b-5762ef61d2b0",
   "603819a3-dd65-408a-abab-15d8dc49887f",
-  "6c2dcd99-d0b5-4d63-940e-58e3781ffb90",
   "794bc120-4094-4dd3-b53a-4d378469daab",
   "a223ebdb-2098-431a-96c3-38384188c93e",
+  "c54c5e82-ce6d-443c-b114-bdfcf76271e3",
   "cf990ae8-ee77-4436-aa3a-bbc2fb040c53",
-  "d677e967-0ea8-4907-a816-132af88b1f1f",
-  "f485afce-05e0-47e1-8769-b8bbe890f2fc"
+  "dba19cc3-5fb8-4c8a-a72c-a22c8b940d5e",
+  "f665d56a-2bb3-4e99-8bf4-b0c5d2142888",
+  "fd4b654f-9ae2-42c5-977b-6aa54e8e9a83"
  ]
 }
