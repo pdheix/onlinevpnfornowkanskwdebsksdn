@@ -4,9 +4,13 @@
 دریافت‌کننده کانفیگ‌ها برای GitHub Actions — SpeedRay VPN + Shah VPN
 =====================================================================
 منبع ۱ — SpeedRay VPN:
-  فهرست دامنه‌ها را از گیت‌هاب تازه می‌کند، به‌صورت موازی به همه
-  اندپوینت‌های /v2speed.php درخواست رمزگذاری‌شده می‌فرستد، پاسخ‌های hex را
-  با AES-256-CBC (K_GO) رمزگشایی و کانفیگ‌های vless را استخراج می‌کند.
+  **منبع اصلی (از 2026-09):** فایل zaha.php در ریپوی گیت‌هاب اپراتور
+  (raw.githubusercontent.com/nonkh/xoxz/main/zaha.php) — همان بلاب رمزشده‌ی
+  پاسخ پنل (hex + AES-256-CBC با K_GO) که اپراتور لحظه‌ای با API آپدیت می‌کند.
+  پنل‌های /v2speed.php از 2026-09 به کلاینت فعلی فقط ۱ کانفیگ با پیام
+  «لطفا برنامه را از طریق گوگل پلی ابدیت کنید» می‌دهند (گیت آپدیت) — این
+  پاسخ‌ها تشخیص داده شده (gated) و کانفیگ‌شان نادیده گرفته می‌شود؛ پنل‌ها
+  همچنان موازی probe می‌شوند تا اگر روزی برگردند، خودکار استفاده شوند.
 
 منبع ۲ — Shah VPN (com.alash.mjshah.org v25.3):
   GET api.gem-panel.com/api/v1/apps/app-data با هدر
@@ -47,6 +51,7 @@ APP_CODE = "50"
 UA = "Nexen-HTTP/2.0"
 PATH_EP = "/v2speed.php"
 DOMAIN_LIST_URL = "https://raw.githubusercontent.com/nonkh/xoxz/main/api-domain2.txt"
+ZAHA_URL = "https://raw.githubusercontent.com/nonkh/xoxz/main/zaha.php"
 FALLBACK_DOMAINS = [
     "https://akhtarbuy.uk", "https://akhtarbuy.com", "https://akhtarbuy.net",
     "https://akhtarbuy.org", "https://akhtarbuy.cc", "https://akhtarbuy.work",
@@ -109,6 +114,35 @@ def get_domains() -> list:
     return FALLBACK_DOMAINS
 
 
+def is_update_gate(j: dict) -> bool:
+    """تشخیص «گیت آپدیت»: پنل به‌جای کانفیگ واقعی فقط ۱ سرور با پیام
+    «لطفا برنامه را از طریق گوگل پلی ابدیت کنید» برمی‌گرداند (رفتار از 2026-09)."""
+    servers = j.get("servers") or []
+    if len(servers) != 1:
+        return False
+    c = servers[0].get("config", "") if isinstance(servers[0], dict) else ""
+    remark = urllib.parse.unquote(c.split("#", 1)[1]) if "#" in c else ""
+    return any(m in remark for m in ("ابدیت", "اپدیت", "آپدیت", "Update", "update"))
+
+
+def fetch_speedray_zaha() -> dict:
+    """منبع اصلی SpeedRay: بلاب رمزشده‌ی پاسخ کامل پنل که اپراتور در فایل
+    zaha.py ریپوی خودش می‌گذارد و لحظه‌ای با API آپدیت می‌کند
+    (کامیت‌های «Update zaha.php via API»). رمزگشایی مثل پاسخ پنل: K_GO."""
+    req = urllib.request.Request(ZAHA_URL, method="GET")
+    req.add_header("User-Agent", UA)
+    with urllib.request.urlopen(req, timeout=25) as r:
+        body = r.read().decode("utf-8", "replace").strip()
+    if not body or body[:1] == "<" or len(body) < 64:
+        raise ValueError("decoy/HTML یا خالی")
+    j = json.loads(aes_dec(body))
+    if is_update_gate(j):
+        raise ValueError("zaha.php هم گیت آپدیت شده است")
+    if not (j.get("servers") or j.get("splash")):
+        raise ValueError("بدون servers/splash")
+    return j
+
+
 def fetch_one(base: str) -> dict:
     """یک دامنه → وضعیت + JSON رمزگشایی‌شده (یا خطا)"""
     url = base.rstrip("/") + PATH_EP
@@ -116,17 +150,18 @@ def fetch_one(base: str) -> dict:
     data, err = http_post(url, build_body())
     ms = int((time.time() - t0) * 1000)
     if err:
-        return {"url": url, "ok": False, "ms": ms, "count": 0, "error": err, "json": None}
+        return {"url": url, "ok": False, "ms": ms, "count": 0, "gated": False, "error": err, "json": None}
     t = data.strip()
     # decoy = HTML
     if not t or t[:1] == b"<" or b"<html" in t[:300].lower() or b"<!doctype" in t[:300].lower():
-        return {"url": url, "ok": False, "ms": ms, "count": 0, "error": "decoy/HTML", "json": None}
+        return {"url": url, "ok": False, "ms": ms, "count": 0, "gated": False, "error": "decoy/HTML", "json": None}
     try:
         j = json.loads(aes_dec(t.decode("ascii", "strict")))
-        n = len(j.get("servers", [])) + len(j.get("splash", []))
-        return {"url": url, "ok": True, "ms": ms, "count": n, "error": None, "json": j}
+        gated = is_update_gate(j)
+        n = 0 if gated else len(j.get("servers", [])) + len(j.get("splash", []))
+        return {"url": url, "ok": True, "ms": ms, "count": n, "gated": gated, "error": None, "json": j}
     except Exception as e:  # noqa: BLE001
-        return {"url": url, "ok": False, "ms": ms, "count": 0, "error": f"decrypt/parse: {e}", "json": None}
+        return {"url": url, "ok": False, "ms": ms, "count": 0, "gated": False, "error": f"decrypt/parse: {e}", "json": None}
 
 
 # ═══════════════════════════════════════════════════════════════════
@@ -254,8 +289,14 @@ def shah_to_vless(cfg_str, label: str) -> str:
     from urllib.parse import quote
     c = json.loads(cfg_str) if isinstance(cfg_str, str) else cfg_str
     ob = next(o for o in c["outbounds"] if o.get("protocol") == "vless")
-    v = ob["settings"]["vnext"][0]
-    u = v["users"][0]
+    st = ob["settings"]
+    if "vnext" in st:                      # فرمت قدیمی
+        v = st["vnext"][0]
+        u = v["users"][0]
+        addr, port = v["address"], v["port"]
+    else:                                  # فرمت جدید (تخت) — از 2026-09
+        u = st
+        addr, port = st["address"], st["port"]
     ss = ob.get("streamSettings", {})
     tls = ss.get("tlsSettings", {})
     xh = ss.get("xhttpSettings", {})
@@ -295,7 +336,7 @@ def shah_to_vless(cfg_str, label: str) -> str:
     q.append("encryption=" + u.get("encryption", "none"))
 
     name = f"{label} {c.get('remarks', '')}".strip()
-    return f"vless://{u['id']}@{v['address']}:{v['port']}?{'&'.join(q)}#{quote(name)}"
+    return f"vless://{u['id']}@{addr}:{port}?{'&'.join(q)}#{quote(name)}"
 
 
 def fetch_shah() -> dict:
@@ -353,24 +394,42 @@ TXT_FILE = "configs.txt"
 def main() -> int:
     now = datetime.now(timezone.utc)
 
-    # ── منبع ۱: SpeedRay (موازی) ──
+    # ── منبع ۱: SpeedRay ──────────────────────────────────────────
+    # ۱a) منبع اصلی: zaha.php در ریپوی اپراتور — از 2026-09 پنل‌ها فقط
+    #     پیام «آپدیت کنید» می‌دهند؛ بلاب واقعی پاسخ اینجاست و لحظه‌ای آپدیت می‌شود.
+    zaha_j, zaha_err = None, None
+    try:
+        zaha_j = fetch_speedray_zaha()
+        print("[✓] SpeedRay: zaha.php (ریپوی اپراتور) → پاسخ کامل")
+    except Exception as e:  # noqa: BLE001
+        zaha_err = f"{type(e).__name__}: {e}"
+        print(f"[!] zaha.php ناموفق ({zaha_err})")
+
+    # ۱b) پنل‌ها همچنان موازی probe می‌شوند؛ پاسخ‌های «گیت آپدیت» فقط ثبت
+    #     می‌شوند و کانفیگ‌شان جمع نمی‌شود (اگر پنل‌ها برگردند، خودکار استفاده می‌شوند).
     domains = get_domains()
     print(f"[•] SpeedRay: {len(domains)} دامنه دریافت شد — شروع واکشی موازی…")
-    with ThreadPoolExecutor(max_workers=min(12, len(domains))) as ex:
+    with ThreadPoolExecutor(max_workers=min(12, max(1, len(domains)))) as ex:
         results = list(ex.map(fetch_one, domains))
-    ok_results = [r for r in results if r["ok"]]
+    ok_results = [r for r in results if r["ok"] and not r["gated"]]
+    gated_results = [r for r in results if r.get("gated")]
 
+    # استخراج کانفیگ‌ها از zaha (اصلی) + پنل‌های سالم (در صورت وجود)
     main_cfgs, splash_cfgs, raws = [], [], {}
-    for r in ok_results:
-        raws[r["url"]] = r["json"]
-        main_cfgs += [s["config"] for s in r["json"].get("servers", []) if isinstance(s, dict) and s.get("config")]
-        splash_cfgs += [s["config"] for s in r["json"].get("splash", []) if isinstance(s, dict) and s.get("config")]
+    src_pools = ([("zaha.php (github)", zaha_j)] if zaha_j is not None else []) + \
+                [(r["url"], r["json"]) for r in ok_results]
+    for _src, _j in src_pools:
+        raws[_src] = _j
+        main_cfgs += [s["config"] for s in _j.get("servers", []) if isinstance(s, dict) and s.get("config")]
+        splash_cfgs += [s["config"] for s in _j.get("splash", []) if isinstance(s, dict) and s.get("config")]
     main_unique = list(dict.fromkeys(main_cfgs))
     splash_unique = list(dict.fromkeys(splash_cfgs))
     speedray_unique = list(dict.fromkeys(main_cfgs + splash_cfgs))
 
     # اولین پاسخ موفق به‌عنوان مرجع بخش‌های غیرکانفیگی
-    ref = ok_results[0]["json"] if ok_results else {}
+    ref = zaha_j if zaha_j is not None else (ok_results[0]["json"] if ok_results else {})
+    speedray_source = ("zaha.php (github)" if zaha_j is not None
+                       else ("panels /v2speed.php" if ok_results else None))
 
     # ── منبع ۲: Shah VPN (با fallback خودکار) ──
     print("[•] Shah VPN: امتحان منابع…")
@@ -389,9 +448,12 @@ def main() -> int:
         "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "updated_at_tehran": now.astimezone(TEHRAN).strftime("%Y-%m-%d %H:%M:%S (%Z)"),
         "summary": {
+            "speedray_source_used": speedray_source,
+            "speedray_zaha_error": zaha_err,
             "speedray_domains_total": len(results),
             "speedray_domains_ok": len(ok_results),
-            "speedray_domains_failed": len(results) - len(ok_results),
+            "speedray_domains_gated": len(gated_results),
+            "speedray_domains_failed": len(results) - len(ok_results) - len(gated_results),
             "speedray_main_configs": len(main_unique),
             "speedray_splash_configs": len(splash_unique),
             "speedray_unique": len(speedray_unique),
@@ -403,10 +465,13 @@ def main() -> int:
             "unique_uuids": len(uuids),
         },
         "speedray": {
+            "source_used": speedray_source,
+            "zaha_error": zaha_err,
             "domains": [
                 {
                     "url": r["url"],
                     "ok": r["ok"],
+                    "gated": r.get("gated", False),
                     "http_ms": r["ms"],
                     "config_count": r["count"],
                     "error": r["error"],
@@ -446,10 +511,13 @@ def main() -> int:
 
     print()
     for r in results:
-        mark = "✅" if r["ok"] else "❌"
-        info = f"{r['count']} کانفیگ ({r['ms']}ms)" if r["ok"] else r["error"]
-        print(f"  {mark} {r['url']:<48} {info}")
-    print(f"\n[✓] SpeedRay: {len(speedray_unique)} کانفیگ یکتا")
+        if r["ok"] and r.get("gated"):
+            print(f"  ⚠️ {r['url']:<48} update-gate (فقط پیام «آپدیت کنید»)")
+        elif r["ok"]:
+            print(f"  ✅ {r['url']:<48} {r['count']} کانفیگ ({r['ms']}ms)")
+        else:
+            print(f"  ❌ {r['url']:<48} {r['error']}")
+    print(f"\n[✓] SpeedRay: {len(speedray_unique)} کانفیگ یکتا (منبع: {speedray_source})")
     print(f"[✓] Shah VPN: {len(shah['links'])} کانفیگ یکتا (منبع: {shah['source_used']})")
     print(f"[✓] مجموع بعد از ادغام: {len(combined)} → {OUT_FILE} + {TXT_FILE}")
 
