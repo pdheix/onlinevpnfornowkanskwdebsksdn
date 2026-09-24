@@ -1,6 +1,6 @@
 {
- "updated_at_utc": "2026-09-24T17:30:52Z",
- "updated_at_tehran": "2026-09-24 20:30:52 (Iran Standard Time)",
+ "updated_at_utc": "2026-09-24T20:43:48Z",
+ "updated_at_tehran": "2026-09-24 23:43:48 (Iran Standard Time)",
  "summary": {
   "speedray_source_used": "zaha.php (github)",
   "speedray_zaha_error": null,
@@ -11,12 +11,12 @@
   "speedray_main_configs": 30,
   "speedray_splash_configs": 31,
   "speedray_unique": 61,
-  "shah_normal_configs": 9,
+  "shah_normal_configs": 18,
   "shah_smart_configs": 1,
-  "shah_unique": 10,
+  "shah_unique": 19,
   "shah_source_used": "api.gem-panel.com (اصلی)",
-  "unique_total": 71,
-  "unique_uuids": 19
+  "unique_total": 80,
+  "unique_uuids": 18
  },
  "speedray": {
   "source_used": "zaha.php (github)",
@@ -26,7 +26,7 @@
     "url": "https://akhtarbuy.uk/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 718,
+    "http_ms": 500,
     "config_count": 0,
     "error": null
    },
@@ -34,7 +34,7 @@
     "url": "https://akhtarbuy.ca/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 547,
+    "http_ms": 521,
     "config_count": 0,
     "error": null
    },
@@ -42,7 +42,7 @@
     "url": "https://akhtarbuy.cc/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 576,
+    "http_ms": 523,
     "config_count": 0,
     "error": null
    },
@@ -50,7 +50,7 @@
     "url": "https://akhtarbuy.net/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 549,
+    "http_ms": 584,
     "config_count": 0,
     "error": null
    },
@@ -58,7 +58,7 @@
     "url": "https://akhtarbuy.org/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 543,
+    "http_ms": 720,
     "config_count": 0,
     "error": null
    },
@@ -66,7 +66,7 @@
     "url": "https://akhtarbuy.work/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 922,
+    "http_ms": 522,
     "config_count": 0,
     "error": null
    },
@@ -74,7 +74,7 @@
     "url": "https://tmzara.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 660,
+    "http_ms": 643,
     "config_count": 0,
     "error": null
    },
@@ -82,7 +82,7 @@
     "url": "https://akhtarbuy.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 626,
+    "http_ms": 491,
     "config_count": 0,
     "error": null
    },
@@ -90,7 +90,7 @@
     "url": "https://sirjanha.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 621,
+    "http_ms": 595,
     "config_count": 0,
     "error": null
    },
@@ -98,7 +98,7 @@
     "url": "https://piransharrudaw-events.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 334,
+    "http_ms": 341,
     "config_count": 0,
     "error": null
    },
@@ -106,74 +106,74 @@
     "url": "https://almaktoom.org/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 570,
+    "http_ms": 607,
     "config_count": 0,
     "error": null
    }
   ],
   "main_servers": [
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.62.248.169:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-286",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H947",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.166.56:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-293",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@162.243.164.126:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-276",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@107.170.70.103:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-278",
-   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@78.47.64.142:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H78",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@134.209.21.246:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-278",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@157.245.224.59:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-290",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.80.132:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-279",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@167.71.90.35:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-289",
-   "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.92.191.227:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany D-279",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.165.204:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-298",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@165.245.236.90:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-286",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@159.65.51.61:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@162.243.232.232:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-271",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.177.33:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Canada D-299",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.33.141:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Netherlands D-285",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.60.170:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H218",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.30.142:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Australia D-275",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@64.225.108.137:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Germany D-289",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.155.108:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Australia D-293",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.198.29.100:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-292",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.45.86:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-282",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.125.98:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-286",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@64.23.150.181:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-295",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.182.31:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-275",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@138.197.85.190:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#nyc3 D-275",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.182.67:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-283",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@147.182.147.165:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-290",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.90.134.138:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-292",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.173.209:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-287",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.81.66:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Netherlands D-286",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.64.173:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-272",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@192.241.167.131:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-289",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.82.85:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-274",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.208.216:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-292",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@104.131.49.199:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#nyc3 D-274",
    "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.128.230.183:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-292",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.120.41:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@206.189.0.139:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-290",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@174.138.9.235:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-282",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.132:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H28",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H432",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.217.223:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-284",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.128.227.183:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-270",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@165.245.229.17:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-290",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.110.153.172:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-288",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.209.153:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-270",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@161.35.1.193:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-278",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.205.34:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-277",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.62.97.104:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-289",
-   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.148.195:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-290",
-   "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H484"
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.33.24:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Netherlands D-293",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.55.110:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-282",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.214.246:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Netherlands D-299",
+   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.198.238.118:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-276",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@45.55.46.63:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#nyc3 D-282"
   ],
   "splash_servers": [
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@159.223.23.117:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.131.25:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@46.101.220.72:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@159.65.112.245:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@46.101.117.66:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.89.17.74:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
-   "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.117.66:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@206.189.49.170:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@209.38.215.90:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@207.154.207.174:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@104.248.36.134:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.200.41:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
-   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@201.79.13.234:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@139.59.153.137:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.90.184.14:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.230.126.153:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@134.209.253.140:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@64.226.90.179:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@142.93.98.232:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@139.59.155.52:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@167.172.99.11:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@46.101.117.66:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@64.225.107.221:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.245.110:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://91098444-9012-4c17-8aa8-65cf2d407430@165.227.161.48:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@164.92.200.240:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.14.243:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.180.61:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@104.248.24.127:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@164.92.244.197:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@206.189.54.232:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@207.154.248.32:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.66.147:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@64.225.107.221:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@138.68.95.120:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@207.154.243.148:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@209.38.194.232:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@167.172.165.54:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.90.169.55:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@139.59.153.77:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@165.22.72.238:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@201.79.14.82:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@165.245.248.93:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.109.71:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.92.244.197:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@104.248.24.127:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.220.72:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@159.89.102.53:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@161.35.223.175:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@209.38.194.232:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@209.38.220.179:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@165.22.31.196:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@167.99.253.120:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@209.38.194.232:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.249.212:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@159.89.103.23:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@206.189.59.72:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@165.22.25.201:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@165.22.30.150:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://4847d6dd-5c7f-459a-8799-606da5851937@134.209.224.92:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81",
    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
   ],
   "app_config": {
@@ -264,7 +264,7 @@
    "max_ping": "30",
    "stop_time": 120,
    "bc": "ca-app-pub-7182999367757973/4306998324",
-   "time": 40,
+   "time": 47,
    "status": "off",
    "update": "off",
    "reward": "2294529",
@@ -289,7 +289,7 @@
     "+15",
     "+12"
    ],
-   "target": "8"
+   "target": "5"
   },
   "packages": [
    "com.android.chrome",
@@ -340,7 +340,7 @@
       "+15",
       "+12"
      ],
-     "target": "8"
+     "target": "5"
     },
     "appConfig": {
      "dns_bean": {
@@ -430,7 +430,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/4306998324",
-     "time": 40,
+     "time": 47,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -482,186 +482,186 @@
     ],
     "servers": [
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.62.248.169:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-286"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@159.65.51.61:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-291"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H947"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@162.243.232.232:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-271"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.166.56:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-293"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.177.33:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Canada D-299"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@162.243.164.126:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-276"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.33.141:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Netherlands D-285"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@107.170.70.103:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-278"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.60.170:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H218"
      },
      {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@78.47.64.142:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H78"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.30.142:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Australia D-275"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@134.209.21.246:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-278"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@64.225.108.137:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Germany D-289"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@157.245.224.59:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-290"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.155.108:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Australia D-293"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.80.132:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-279"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.198.29.100:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-292"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@167.71.90.35:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-289"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.45.86:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-282"
      },
      {
-      "config": "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.125.98:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-286"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.92.191.227:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany D-279"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@64.23.150.181:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-295"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.165.204:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-298"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.182.31:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-275"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@165.245.236.90:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-286"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@138.197.85.190:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#nyc3 D-275"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.182.67:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-283"
+     },
+     {
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@147.182.147.165:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-290"
+     },
+     {
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.90.134.138:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-292"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.173.209:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-287"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.81.66:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Netherlands D-286"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.64.173:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-272"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@192.241.167.131:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-289"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.82.85:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-274"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.208.216:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-292"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@104.131.49.199:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#nyc3 D-274"
      },
      {
       "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.128.230.183:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-292"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.120.41:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-277"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.33.24:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Netherlands D-293"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@206.189.0.139:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-290"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.55.110:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-282"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@174.138.9.235:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-282"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.214.246:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Netherlands D-299"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.132:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H28"
+      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.198.238.118:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-276"
      },
      {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H432"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.217.223:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-284"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.128.227.183:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-270"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@165.245.229.17:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-290"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.110.153.172:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-288"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.209.153:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-270"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@161.35.1.193:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-278"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.205.34:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-277"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.62.97.104:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-289"
-     },
-     {
-      "config": "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.148.195:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-290"
-     },
-     {
-      "config": "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H484"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@45.55.46.63:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#nyc3 D-282"
      }
     ],
     "splash": [
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@159.223.23.117:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@206.189.54.232:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.131.25:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@207.154.248.32:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@46.101.220.72:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.66.147:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@159.65.112.245:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@64.225.107.221:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@46.101.117.66:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@138.68.95.120:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
      },
      {
-      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.89.17.74:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63"
+      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@207.154.243.148:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74"
      },
      {
-      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.117.66:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@209.38.194.232:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@206.189.49.170:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@167.172.165.54:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@209.38.215.90:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.90.169.55:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@207.154.207.174:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@139.59.153.77:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@104.248.36.134:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@165.22.72.238:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.200.41:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@201.79.14.82:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85"
      },
      {
-      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@201.79.13.234:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@165.245.248.93:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@139.59.153.137:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.109.71:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.90.184.14:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.92.244.197:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
-      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.230.126.153:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@104.248.24.127:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@134.209.253.140:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.220.72:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@64.226.90.179:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@159.89.102.53:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@142.93.98.232:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@161.35.223.175:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@139.59.155.52:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@209.38.194.232:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@167.172.99.11:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@209.38.220.179:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@46.101.117.66:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@165.22.31.196:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
      },
      {
-      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@64.225.107.221:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@167.99.253.120:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.245.110:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@209.38.194.232:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@165.227.161.48:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.249.212:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@164.92.200.240:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@159.89.103.23:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.14.243:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@206.189.59.72:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.180.61:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@165.22.25.201:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@104.248.24.127:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@165.22.30.150:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@164.92.244.197:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@134.209.224.92:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81"
      },
      {
       "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
@@ -681,9 +681,9 @@
    }
   ],
   "count": {
-   "normal": 9,
+   "normal": 18,
    "smart": 1,
-   "unique_vless": 10
+   "unique_vless": 19
   },
   "baseUrl": "https://api.gem-panel.com",
   "domains": [
@@ -805,15 +805,24 @@
    }
   },
   "vless": [
+   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana1.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR1",
+   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@188.114.97.6:443?type=ws&path=%2Fadygr&security=tls&sni=grkana1.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR1",
+   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana2.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR2",
+   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@188.114.97.6:443?type=ws&path=%2Fadygr&security=tls&sni=grkana2.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR2",
+   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana3.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR3",
+   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@188.114.97.6:443?type=ws&path=%2Fadygr&security=tls&sni=grkana3.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR3",
+   "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@188.114.97.6:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini1.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK1",
    "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.21.70.21:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini1.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK1",
    "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.21.70.21:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini2.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK2",
-   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana3.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR3",
-   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio1.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL1",
-   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana2.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR2",
-   "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana1.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR1",
-   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio2.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL2",
+   "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@188.114.97.6:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini2.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK2",
+   "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@188.114.97.6:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini3.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK3",
    "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.21.70.21:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini3.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK3",
+   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@188.114.97.6:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio1.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL1",
+   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio1.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL1",
+   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@188.114.97.6:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio2.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL2",
+   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio2.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL2",
    "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio3.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL3",
+   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@188.114.97.6:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio3.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL3",
    "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?type=ws&path=%2Fadylb&security=tls&sni=smlati.dovrani.ir&fp=unsafe&alpn=http/1.1&encryption=none#SMART%20ws-LB"
   ],
   "payload": {
@@ -824,56 +833,110 @@
    "configs": {
     "normal": [
      {
-      "id": 43406380,
-      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini1.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini1.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK1\" }",
-      "country": "GB",
-      "regions": ""
-     },
-     {
-      "id": 43406407,
-      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini2.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini2.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK2\" }",
-      "country": "GB",
-      "regions": ""
-     },
-     {
-      "id": 43406496,
-      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana3.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana3.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR3\" }",
-      "country": "DE",
-      "regions": ""
-     },
-     {
-      "id": 43406502,
-      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio1.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio1.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL1\" }",
-      "country": "NL",
-      "regions": ""
-     },
-     {
-      "id": 43406521,
-      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana2.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana2.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR2\" }",
-      "country": "DE",
-      "regions": ""
-     },
-     {
-      "id": 43406536,
+      "id": 43406696,
       "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana1.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana1.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR1\" }",
       "country": "DE",
       "regions": ""
      },
      {
-      "id": 43406571,
-      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio2.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio2.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL2\" }",
-      "country": "NL",
+      "id": 43406697,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana1.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana1.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR1\" }",
+      "country": "DE",
       "regions": ""
      },
      {
-      "id": 43406623,
+      "id": 43406754,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana2.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana2.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR2\" }",
+      "country": "DE",
+      "regions": ""
+     },
+     {
+      "id": 43406755,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana2.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana2.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR2\" }",
+      "country": "DE",
+      "regions": ""
+     },
+     {
+      "id": 43406792,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana3.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana3.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR3\" }",
+      "country": "DE",
+      "regions": ""
+     },
+     {
+      "id": 43406793,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"128d1209-9e9f-4952-9faf-df47ae3648d2\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"grkana3.kurnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"grkana3.kurnavo.ir\", \"path\": \"/adygr\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-GR3\" }",
+      "country": "DE",
+      "regions": ""
+     },
+     {
+      "id": 43406826,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini1.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini1.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK1\" }",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43406827,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini1.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini1.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK1\" }",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43406860,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini2.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini2.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK2\" }",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43406861,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini2.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini2.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK2\" }",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43406894,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini3.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini3.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK3\" }",
+      "country": "GB",
+      "regions": ""
+     },
+     {
+      "id": 43406895,
       "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"337bf72e-bb79-4d5f-be3f-7822eb77100c\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"ukraini3.pelnavo.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"ukraini3.pelnavo.ir\", \"path\": \"/adyuk\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-UK3\" }",
       "country": "GB",
       "regions": ""
      },
      {
-      "id": 43406643,
+      "id": 43406928,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio1.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio1.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL1\" }",
+      "country": "NL",
+      "regions": ""
+     },
+     {
+      "id": 43406929,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio1.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio1.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL1\" }",
+      "country": "NL",
+      "regions": ""
+     },
+     {
+      "id": 43406962,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio2.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio2.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL2\" }",
+      "country": "NL",
+      "regions": ""
+     },
+     {
+      "id": 43406963,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio2.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio2.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL2\" }",
+      "country": "NL",
+      "regions": ""
+     },
+     {
+      "id": 43407016,
       "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"104.21.70.21\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio3.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio3.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL3\" }",
+      "country": "NL",
+      "regions": ""
+     },
+     {
+      "id": 43407017,
+      "config": "{ \"dns\": { \"hosts\": { \"cloudflare-dns.com\": [ \"104.16.248.249\", \"104.16.249.249\" ] }, \"servers\": [ \"https://cloudflare-dns.com/dns-query\" ] }, \"inbounds\": [ { \"listen\": \"127.0.0.1\", \"port\": 10808, \"protocol\": \"socks\", \"settings\": { \"auth\": \"noauth\", \"udp\": true }, \"sniffing\": { \"enabled\": true, \"destOverride\": [ \"http\", \"tls\", \"quic\" ], \"routeOnly\": false }, \"tag\": \"socks\" }, { \"listen\": \"127.0.0.1\", \"port\": 10809, \"protocol\": \"http\", \"settings\": {}, \"tag\": \"http\" } ], \"log\": { \"loglevel\": \"warning\" }, \"outbounds\": [ { \"protocol\": \"vless\", \"settings\": { \"vnext\": [ { \"address\": \"188.114.97.6\", \"port\": 443, \"users\": [ { \"id\": \"e999db7a-1b17-4da6-bc37-c9fa24af2e93\", \"encryption\": \"none\" } ] } ] }, \"streamSettings\": { \"network\": \"ws\", \"security\": \"tls\", \"finalmask\": { \"tcp\": [ { \"type\": \"fragment\", \"settings\": { \"packets\": \"tlshello\", \"lengths\": [ \"0\", \"104\", \"1\" ], \"delays\": [ \"0\" ], \"maxSplit\": \"0\" } }, { \"type\": \"fragment\", \"settings\": { \"packets\": \"1-1\", \"lengths\": [ \"114\", \"1\" ], \"delays\": [ \"1\" ], \"maxSplit\": \"11\" } } ] }, \"tlsSettings\": { \"serverName\": \"nlertaio3.tilzaro.ir\", \"alpn\": [ \"http/1.1\" ], \"fingerprint\": \"unsafe\", \"cipherSuites\": \"TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\" }, \"wsSettings\": { \"host\": \"nlertaio3.tilzaro.ir\", \"path\": \"/adynl\" } }, \"tag\": \"proxy\" }, { \"protocol\": \"freedom\", \"tag\": \"direct\" }, { \"protocol\": \"blackhole\", \"settings\": {}, \"tag\": \"block\" } ], \"routing\": { \"domainStrategy\": \"AsIs\", \"rules\": [ { \"type\": \"field\", \"network\": \"udp\", \"port\": \"443\", \"outboundTag\": \"block\" } ] }, \"remarks\": \"ws-NL3\" }",
       "country": "NL",
       "regions": ""
      }
@@ -1006,76 +1069,85 @@
   }
  },
  "all_configs": [
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.62.248.169:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-286",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H947",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.166.56:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-293",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@162.243.164.126:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-276",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@107.170.70.103:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-278",
-  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@78.47.64.142:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H78",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@134.209.21.246:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-278",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@157.245.224.59:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-290",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.80.132:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-279",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@167.71.90.35:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-289",
-  "vless://794bc120-4094-4dd3-b53a-4d378469daab@s1.cheezandroidsoft.digital:443?alpn=h2&encryption=none&fp=chrome&host=s1.cheezandroidsoft.digital&path=%2FCpanel%2FLogs%2F546f5esFSEFse5fg5rgrgd5rgdrg&security=tls&sni=s1.cheezandroidsoft.digital&type=ws#",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.92.191.227:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany D-279",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.165.204:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-298",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@165.245.236.90:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-286",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@159.65.51.61:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-291",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@162.243.232.232:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-271",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.177.33:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Canada D-299",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.33.141:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Netherlands D-285",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.60.170:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H218",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.30.142:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Australia D-275",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@64.225.108.137:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Germany D-289",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.199.155.108:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Australia D-293",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.198.29.100:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-292",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.45.86:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-282",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.125.98:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-286",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@64.23.150.181:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-295",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.182.31:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-275",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@138.197.85.190:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#nyc3 D-275",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.182.67:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-283",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@147.182.147.165:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-290",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@164.90.134.138:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nyc3 D-292",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.173.209:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United Kingdom D-287",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.81.66:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Netherlands D-286",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.64.173:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-272",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@192.241.167.131:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-289",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.82.85:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-274",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.208.216:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#United States D-292",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@104.131.49.199:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#nyc3 D-274",
   "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.128.230.183:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-292",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.120.41:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-277",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@206.189.0.139:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-290",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@174.138.9.235:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Netherlands D-282",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.132:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H28",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H432",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.217.223:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-284",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.128.227.183:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-270",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@165.245.229.17:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Canada D-290",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.110.153.172:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-288",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@170.64.209.153:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Australia D-270",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@161.35.1.193:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-278",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.205.34:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-277",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@178.62.97.104:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United Kingdom D-289",
-  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@137.184.148.195:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-290",
-  "vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.29.247:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#Germany H484",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@159.223.23.117:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.131.25:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@46.101.220.72:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@159.65.112.245:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@46.101.117.66:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@159.89.17.74:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
-  "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.117.66:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@206.189.49.170:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@209.38.215.90:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@207.154.207.174:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@104.248.36.134:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.200.41:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
-  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@201.79.13.234:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@139.59.153.137:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.90.184.14:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@157.230.126.153:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@134.209.253.140:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@64.226.90.179:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@142.93.98.232:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@139.59.155.52:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@167.172.99.11:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@46.101.117.66:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@64.225.107.221:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.245.110:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://91098444-9012-4c17-8aa8-65cf2d407430@165.227.161.48:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@164.92.200.240:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.14.243:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@46.101.180.61:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@104.248.24.127:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@164.92.244.197:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.33.24:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#Netherlands D-293",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.55.110:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#United States D-282",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.214.246:2083?encryption=none&fp=chrome&pbk=B7lo4ohXiTR0d-vpIsYb9chOXZ3c3XhKUXKQmGBCggA&security=reality&sid=2baa&sni=play.google.com&spx=%2F544170b21864492&type=tcp#Netherlands D-299",
+  "vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@143.198.238.118:11186?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#United States D-276",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@45.55.46.63:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fzass&pbk=7AeO1Ot-p-jZQXFliDD2NoM1LrnzpiVy106E4Koeqkw&security=reality&sid=e699e8c921&sni=www.wikipedia.org&spx=%2F2fd7823f05f0e1b&type=xhttp&x_padding_bytes=100-1000#nyc3 D-282",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@206.189.54.232:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@207.154.248.32:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@138.68.66.147:443?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#nonor63",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@64.225.107.221:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@138.68.95.120:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@207.154.243.148:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@209.38.194.232:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@167.172.165.54:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.90.169.55:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@139.59.153.77:451?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@165.22.72.238:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@201.79.14.82:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@165.245.248.93:446?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.109.71:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@164.92.244.197:444?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#diabla33",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@104.248.24.127:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.220.72:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@159.89.102.53:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@161.35.223.175:441?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#bita74",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@209.38.194.232:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@209.38.220.179:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@165.22.31.196:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@167.99.253.120:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@209.38.194.232:448?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.209.249.212:440?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@159.89.103.23:450?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#sajide911",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@206.189.59.72:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@165.22.25.201:442?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#zalo85",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@165.22.30.150:447?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://4847d6dd-5c7f-459a-8799-606da5851937@134.209.224.92:449?encryption=none&headerType=http&host=www.amazonaws-china.com&path=%2F&security=none&type=tcp#xdrpanel81",
   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO",
+  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana1.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR1",
+  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@188.114.97.6:443?type=ws&path=%2Fadygr&security=tls&sni=grkana1.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR1",
+  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana2.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR2",
+  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@188.114.97.6:443?type=ws&path=%2Fadygr&security=tls&sni=grkana2.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR2",
+  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana3.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR3",
+  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@188.114.97.6:443?type=ws&path=%2Fadygr&security=tls&sni=grkana3.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR3",
+  "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@188.114.97.6:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini1.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK1",
   "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.21.70.21:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini1.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK1",
   "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.21.70.21:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini2.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK2",
-  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana3.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR3",
-  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio1.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL1",
-  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana2.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR2",
-  "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@104.21.70.21:443?type=ws&path=%2Fadygr&security=tls&sni=grkana1.kurnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#DE%20ws-GR1",
-  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio2.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL2",
+  "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@188.114.97.6:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini2.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK2",
+  "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@188.114.97.6:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini3.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK3",
   "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.21.70.21:443?type=ws&path=%2Fadyuk&security=tls&sni=ukraini3.pelnavo.ir&fp=unsafe&alpn=http/1.1&encryption=none#GB%20ws-UK3",
+  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@188.114.97.6:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio1.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL1",
+  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio1.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL1",
+  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@188.114.97.6:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio2.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL2",
+  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio2.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL2",
   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.21.70.21:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio3.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL3",
+  "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@188.114.97.6:443?type=ws&path=%2Fadynl&security=tls&sni=nlertaio3.tilzaro.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20ws-NL3",
   "vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@104.21.70.21:443?type=ws&path=%2Fadylb&security=tls&sni=smlati.dovrani.ir&fp=unsafe&alpn=http/1.1&encryption=none#SMART%20ws-LB"
  ],
  "server_uuids": [
@@ -1086,14 +1158,13 @@
   "1a3704db-970f-4faf-8031-6d06ed3fe21e",
   "21e630e7-1947-4800-879e-0752e45a3249",
   "337bf72e-bb79-4d5f-be3f-7822eb77100c",
+  "40992c2a-513e-4837-9594-23411fd42afd",
   "4847d6dd-5c7f-459a-8799-606da5851937",
   "531d7ef6-838c-4747-ae3a-fc4c502423b8",
   "59906cb2-a61b-4cf3-b77b-5762ef61d2b0",
-  "794bc120-4094-4dd3-b53a-4d378469daab",
   "91098444-9012-4c17-8aa8-65cf2d407430",
   "a223ebdb-2098-431a-96c3-38384188c93e",
   "cd1edec4-1fca-445d-b33c-4129bf0d743b",
-  "cf990ae8-ee77-4436-aa3a-bbc2fb040c53",
   "d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a",
   "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
   "f665d56a-2bb3-4e99-8bf4-b0c5d2142888",
