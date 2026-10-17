@@ -1,6 +1,6 @@
 {
- "updated_at_utc": "2026-10-17T13:08:33Z",
- "updated_at_tehran": "2026-10-17 16:08:33 (Iran Standard Time)",
+ "updated_at_utc": "2026-10-17T16:26:37Z",
+ "updated_at_tehran": "2026-10-17 19:26:37 (Iran Standard Time)",
  "summary": {
   "speedray_source_used": "zaha.php (github)",
   "speedray_zaha_error": null,
@@ -16,7 +16,7 @@
   "shah_unique": 10,
   "shah_source_used": "api.gem-panel.com (اصلی)",
   "unique_total": 71,
-  "unique_uuids": 16
+  "unique_uuids": 17
  },
  "speedray": {
   "source_used": "zaha.php (github)",
@@ -26,7 +26,7 @@
     "url": "https://akhtarbuy.uk/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 758,
+    "http_ms": 886,
     "config_count": 0,
     "error": null
    },
@@ -42,7 +42,7 @@
     "url": "https://akhtarbuy.cc/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 776,
+    "http_ms": 760,
     "config_count": 0,
     "error": null
    },
@@ -50,7 +50,7 @@
     "url": "https://akhtarbuy.net/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 816,
+    "http_ms": 799,
     "config_count": 0,
     "error": null
    },
@@ -58,7 +58,7 @@
     "url": "https://akhtarbuy.org/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 948,
+    "http_ms": 759,
     "config_count": 0,
     "error": null
    },
@@ -66,7 +66,7 @@
     "url": "https://akhtarbuy.work/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 777,
+    "http_ms": 738,
     "config_count": 0,
     "error": null
    },
@@ -74,7 +74,7 @@
     "url": "https://tmzara.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 789,
+    "http_ms": 761,
     "config_count": 0,
     "error": null
    },
@@ -82,7 +82,7 @@
     "url": "https://akhtarbuy.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 753,
+    "http_ms": 768,
     "config_count": 0,
     "error": null
    },
@@ -90,7 +90,7 @@
     "url": "https://sirjanha.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 770,
+    "http_ms": 765,
     "config_count": 0,
     "error": null
    },
@@ -98,7 +98,7 @@
     "url": "https://piransharrudaw-events.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 437,
+    "http_ms": 414,
     "config_count": 0,
     "error": null
    },
@@ -106,74 +106,74 @@
     "url": "https://almaktoom.org/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 956,
+    "http_ms": 923,
     "config_count": 0,
     "error": null
    }
   ],
   "main_servers": [
-   "vless://9c4c682d-c4f2-4563-9283-6027e491366c@77.113.104.107:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#United States A772",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@143.244.167.234:500?security=none&type=tcp#United States TJ-91",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.230.91:500?security=none&type=tcp#United States TJ-28",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.27.211:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-88",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.155.10:500?security=none&type=tcp#United Kingdom TJ-1",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.22.80.171:500?security=none&type=tcp#Germany TJ-96",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.52.198:500?security=none&type=tcp#United States TJ-25",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.230.205:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-32",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.39.104:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-82",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.89.17.192:500?security=none&type=tcp#Germany TJ-76",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.246.250:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-56",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.39.104:500?security=none&type=tcp#Netherlands TJ-82",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.31.125:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-82",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.41.48:500?security=none&type=tcp#Netherlands TJ-95",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@143.244.167.234:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-91",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.72.38:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-75",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.201.115:500?security=none&type=tcp#Germany TJ-77",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.138.28:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-95",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.254.206:500?security=none&type=tcp#Netherlands TJ-29",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.131.226:500?security=none&type=tcp#United States TJ-56",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.230.205:500?security=none&type=tcp#United States TJ-32",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.244.246:500?security=none&type=tcp#Germany TJ-67",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@67.207.84.126:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-29",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.208.146:500?security=none&type=tcp#Germany TJ-80",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.59.116:500?security=none&type=tcp#United Kingdom TJ-95",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.45.172:500?security=none&type=tcp#Netherlands TJ-82",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@142.93.138.28:500?security=none&type=tcp#Netherlands TJ-95",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.90.75:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-82",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.38.227:500?security=none&type=tcp#Netherlands TJ-72",
-   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.248.162:500?security=none&type=tcp#Germany TJ-29"
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.237.204:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-51",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.122.50.15:500?security=none&type=tcp#Netherlands TJ-5",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@146.190.226.229:500?security=none&type=tcp#Netherlands TJ-29",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@139.59.178.0:500?security=none&type=tcp#United Kingdom TJ-70",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@64.227.4.238:500?security=none&type=tcp#United States TJ-94",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.132.8:500?security=none&type=tcp#United States TJ-82",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.139.31:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-19",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.42.24:500?security=none&type=tcp#United Kingdom TJ-67",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.147.195:500?security=none&type=tcp#Netherlands TJ-43",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@199.247.4.168:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Germany V394",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.231.229:500?security=none&type=tcp#Netherlands TJ-65",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.214.190:500?security=none&type=tcp#Germany TJ-7",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.227.209:500?security=none&type=tcp#United States TJ-41",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.229.18:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-30",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.179.96:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-92",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@192.248.190.142:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Germany V944",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@137.184.64.102:500?security=none&type=tcp#United States TJ-84",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.168.197:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-93",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.177.215:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-27",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.99.95:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-86",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.226.229:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-29",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.231.229:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-65",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.230.174:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-6",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.178.0:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-70",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.147.195:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-43",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@64.176.77.22:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Poland V106",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.192.249:500?security=none&type=tcp#Netherlands TJ-67",
+   "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.104.212:500?security=none&type=tcp#United States TJ-54",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.31.10:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-33",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.203.191.215:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22"
   ],
   "splash_servers": [
-   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@209.38.199.5:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-   "trojan://xq24hbqzejjv6jrc@68.183.98.19:641?security=none&type=tcp#bita74",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@192.81.209.31:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "trojan://xtm8b09dskugo8sz@68.183.29.165:650?security=none&type=tcp#sajide911",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@68.183.29.165:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@45.77.65.82:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.149.7:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "trojan://ihfd5hdc2jqvqnk6@162.243.164.160:640?security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.98.191:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@161.35.92.227:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.182.127:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74",
-   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@142.93.140.241:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-   "trojan://b442x0e8z65jvnmh@206.189.202.212:649?security=none&type=tcp#xdrpanel81",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@162.243.164.160:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.130.71:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@201.79.3.255:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@134.122.95.3:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@142.93.47.59:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@104.248.59.41:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "trojan://txqnn7mfegrt4o34@188.166.150.210:651?security=none&type=tcp#zohomoa25",
-   "trojan://xq24hbqzejjv6jrc@68.183.29.165:641?security=none&type=tcp#bita74",
-   "trojan://ux521c2qr570rn45@192.241.128.166:647?security=none&type=tcp#kobra44",
-   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@165.227.196.88:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-   "trojan://xq24hbqzejjv6jrc@64.227.69.176:641?security=none&type=tcp#bita74",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.127.71:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-   "trojan://xtm8b09dskugo8sz@201.79.3.255:650?security=none&type=tcp#sajide911",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.6.140:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.89.227.204:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@46.101.176.11:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "trojan://ihfd5hdc2jqvqnk6@167.172.39.192:640?security=none&type=tcp#changiz88",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@136.244.85.137:446?encryption=none&fp=chrome&pbk=HAHsjo6hHGxFVagCWXBxuf117x05UY62QsFd9qxLXhY&security=reality&sid=4fbac2&sni=store.steampowered.com&spx=%2Fb3413115b3dc68f&support-x25519mlkem768=true&type=tcp#akbaradin99",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@209.250.239.241:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@80.240.21.144:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@199.247.16.163:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@52.28.80.125:444?encryption=none&fp=chrome&pbk=OhoPWFsmHrhxO7TVhW-d7tHrjgD5ElvIt0aZdCjlekY&security=reality&sid=46&sni=store.steampowered.com&spx=%2F8a47ec8c5d0fe3f&support-x25519mlkem768=true&type=tcp#diabla33\r",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@80.240.19.204:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@136.244.94.65:444?encryption=none&fp=chrome&pbk=OhoPWFsmHrhxO7TVhW-d7tHrjgD5ElvIt0aZdCjlekY&security=reality&sid=46&sni=store.steampowered.com&spx=%2F8a47ec8c5d0fe3f&support-x25519mlkem768=true&type=tcp#diabla33",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@95.179.242.246:447?encryption=none&fp=chrome&pbk=Wqg7Afy6TsTS1Fj8yn5ZVlQtKGlcr4zcLhrknyg5Tgs&security=reality&sid=ce557aa220&sni=store.steampowered.com&spx=%2F7924e82273297a1&support-x25519mlkem768=true&type=tcp#kobra44",
+   "vless://4847d6dd-5c7f-459a-8799-606da5851937@209.250.236.219:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@80.240.18.193:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.250.239.14:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63",
+   "vless://4847d6dd-5c7f-459a-8799-606da5851937@95.179.241.154:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+   "vless://4847d6dd-5c7f-459a-8799-606da5851937@136.244.95.223:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.164.205:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@3.77.133.210:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88\r",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@3.77.133.210:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63\r",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@95.179.242.246:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@136.244.92.77:451?encryption=none&fp=chrome&pbk=5p6OM9SO35ddwLfYq7MyEli0DBeRAA9eT5H0TaCGnVs&security=reality&sid=1e2a649a2f687a&sni=store.steampowered.com&spx=%2Fdbcb12243d0c676&support-x25519mlkem768=true&type=tcp#zohomoa25",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@140.82.39.35:450?encryption=none&fp=chrome&pbk=gvqHHFJflcUULtJomqmIfwogtOROzqkRAmkPxPIm7x8&security=reality&sid=c9cc6a0c38&sni=store.steampowered.com&spx=%2Ff516c9955c5fb99&support-x25519mlkem768=true&type=tcp#sajide911",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@3.128.119.184:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85\r",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@136.244.80.175:446?encryption=none&fp=chrome&pbk=HAHsjo6hHGxFVagCWXBxuf117x05UY62QsFd9qxLXhY&security=reality&sid=4fbac2&sni=store.steampowered.com&spx=%2Fb3413115b3dc68f&support-x25519mlkem768=true&type=tcp#akbaradin99",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@95.179.164.205:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@52.28.80.125:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85\r",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@80.240.21.144:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88",
+   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@80.240.23.164:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85",
+   "vless://4847d6dd-5c7f-459a-8799-606da5851937@80.240.19.204:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@140.82.39.35:451?encryption=none&fp=chrome&pbk=5p6OM9SO35ddwLfYq7MyEli0DBeRAA9eT5H0TaCGnVs&security=reality&sid=1e2a649a2f687a&sni=store.steampowered.com&spx=%2Fdbcb12243d0c676&support-x25519mlkem768=true&type=tcp#zohomoa25",
+   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@45.76.81.124:441?encryption=none&fp=chrome&pbk=mNE1Qi7hZ-pjjeOHJCPMgVWBS7hzKDEFTK4s26Y7Nms&security=reality&sid=f68437da886228&sni=store.steampowered.com&spx=%2F8c8505e36a697dc&support-x25519mlkem768=true&type=tcp#bita74",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@136.244.95.223:447?encryption=none&fp=chrome&pbk=Wqg7Afy6TsTS1Fj8yn5ZVlQtKGlcr4zcLhrknyg5Tgs&security=reality&sid=ce557aa220&sni=store.steampowered.com&spx=%2F7924e82273297a1&support-x25519mlkem768=true&type=tcp#kobra44",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@209.250.232.201:450?encryption=none&fp=chrome&pbk=gvqHHFJflcUULtJomqmIfwogtOROzqkRAmkPxPIm7x8&security=reality&sid=c9cc6a0c38&sni=store.steampowered.com&spx=%2Ff516c9955c5fb99&support-x25519mlkem768=true&type=tcp#sajide911",
    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
   ],
   "app_config": {
@@ -264,7 +264,7 @@
    "max_ping": "30",
    "stop_time": 120,
    "bc": "ca-app-pub-7182999367757973/4306998324",
-   "time": 47,
+   "time": 45,
    "status": "off",
    "update": "off",
    "reward": "2294529",
@@ -289,7 +289,7 @@
     "+15",
     "+12"
    ],
-   "target": "10"
+   "target": "15"
   },
   "packages": [
    "com.android.chrome",
@@ -340,7 +340,7 @@
       "+15",
       "+12"
      ],
-     "target": "10"
+     "target": "15"
     },
     "appConfig": {
      "dns_bean": {
@@ -430,7 +430,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/4306998324",
-     "time": 47,
+     "time": 45,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -482,186 +482,186 @@
     ],
     "servers": [
      {
-      "config": "vless://9c4c682d-c4f2-4563-9283-6027e491366c@77.113.104.107:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#United States A772"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.237.204:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-51"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@143.244.167.234:500?security=none&type=tcp#United States TJ-91"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.122.50.15:500?security=none&type=tcp#Netherlands TJ-5"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.230.91:500?security=none&type=tcp#United States TJ-28"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@146.190.226.229:500?security=none&type=tcp#Netherlands TJ-29"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.27.211:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-88"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@139.59.178.0:500?security=none&type=tcp#United Kingdom TJ-70"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.155.10:500?security=none&type=tcp#United Kingdom TJ-1"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@64.227.4.238:500?security=none&type=tcp#United States TJ-94"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.22.80.171:500?security=none&type=tcp#Germany TJ-96"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.132.8:500?security=none&type=tcp#United States TJ-82"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.52.198:500?security=none&type=tcp#United States TJ-25"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.139.31:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-19"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.230.205:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-32"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.42.24:500?security=none&type=tcp#United Kingdom TJ-67"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.39.104:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-82"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.147.195:500?security=none&type=tcp#Netherlands TJ-43"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.89.17.192:500?security=none&type=tcp#Germany TJ-76"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@199.247.4.168:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Germany V394"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.246.250:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-56"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.231.229:500?security=none&type=tcp#Netherlands TJ-65"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.39.104:500?security=none&type=tcp#Netherlands TJ-82"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.214.190:500?security=none&type=tcp#Germany TJ-7"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.31.125:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-82"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.227.209:500?security=none&type=tcp#United States TJ-41"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.41.48:500?security=none&type=tcp#Netherlands TJ-95"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.229.18:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-30"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@143.244.167.234:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-91"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.179.96:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-92"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.72.38:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-75"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@192.248.190.142:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Germany V944"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.201.115:500?security=none&type=tcp#Germany TJ-77"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@137.184.64.102:500?security=none&type=tcp#United States TJ-84"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.138.28:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-95"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.168.197:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-93"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.254.206:500?security=none&type=tcp#Netherlands TJ-29"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.177.215:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-27"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.131.226:500?security=none&type=tcp#United States TJ-56"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.99.95:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-86"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.230.205:500?security=none&type=tcp#United States TJ-32"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.226.229:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-29"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.244.246:500?security=none&type=tcp#Germany TJ-67"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.231.229:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-65"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@67.207.84.126:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-29"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.230.174:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-6"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.208.146:500?security=none&type=tcp#Germany TJ-80"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.178.0:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-70"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.59.116:500?security=none&type=tcp#United Kingdom TJ-95"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.147.195:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-43"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.45.172:500?security=none&type=tcp#Netherlands TJ-82"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@64.176.77.22:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Poland V106"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@142.93.138.28:500?security=none&type=tcp#Netherlands TJ-95"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.192.249:500?security=none&type=tcp#Netherlands TJ-67"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.90.75:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-82"
+      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.104.212:500?security=none&type=tcp#United States TJ-54"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.38.227:500?security=none&type=tcp#Netherlands TJ-72"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.31.10:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-33"
      },
      {
-      "config": "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.248.162:500?security=none&type=tcp#Germany TJ-29"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.203.191.215:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22"
      }
     ],
     "splash": [
      {
-      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@209.38.199.5:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@136.244.85.137:446?encryption=none&fp=chrome&pbk=HAHsjo6hHGxFVagCWXBxuf117x05UY62QsFd9qxLXhY&security=reality&sid=4fbac2&sni=store.steampowered.com&spx=%2Fb3413115b3dc68f&support-x25519mlkem768=true&type=tcp#akbaradin99"
      },
      {
-      "config": "trojan://xq24hbqzejjv6jrc@68.183.98.19:641?security=none&type=tcp#bita74"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@209.250.239.241:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@192.81.209.31:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@80.240.21.144:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63"
      },
      {
-      "config": "trojan://xtm8b09dskugo8sz@68.183.29.165:650?security=none&type=tcp#sajide911"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@199.247.16.163:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@68.183.29.165:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@52.28.80.125:444?encryption=none&fp=chrome&pbk=OhoPWFsmHrhxO7TVhW-d7tHrjgD5ElvIt0aZdCjlekY&security=reality&sid=46&sni=store.steampowered.com&spx=%2F8a47ec8c5d0fe3f&support-x25519mlkem768=true&type=tcp#diabla33\r"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@45.77.65.82:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@80.240.19.204:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.149.7:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@136.244.94.65:444?encryption=none&fp=chrome&pbk=OhoPWFsmHrhxO7TVhW-d7tHrjgD5ElvIt0aZdCjlekY&security=reality&sid=46&sni=store.steampowered.com&spx=%2F8a47ec8c5d0fe3f&support-x25519mlkem768=true&type=tcp#diabla33"
      },
      {
-      "config": "trojan://ihfd5hdc2jqvqnk6@162.243.164.160:640?security=none&type=tcp#changiz88"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@95.179.242.246:447?encryption=none&fp=chrome&pbk=Wqg7Afy6TsTS1Fj8yn5ZVlQtKGlcr4zcLhrknyg5Tgs&security=reality&sid=ce557aa220&sni=store.steampowered.com&spx=%2F7924e82273297a1&support-x25519mlkem768=true&type=tcp#kobra44"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.98.191:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@209.250.236.219:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@161.35.92.227:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@80.240.18.193:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63"
      },
      {
-      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.182.127:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.250.239.14:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63"
      },
      {
-      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@142.93.140.241:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85"
+      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@95.179.241.154:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81"
      },
      {
-      "config": "trojan://b442x0e8z65jvnmh@206.189.202.212:649?security=none&type=tcp#xdrpanel81"
+      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@136.244.95.223:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@162.243.164.160:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.164.205:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.130.71:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@3.77.133.210:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88\r"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@201.79.3.255:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@3.77.133.210:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63\r"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@134.122.95.3:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@95.179.242.246:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@142.93.47.59:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@136.244.92.77:451?encryption=none&fp=chrome&pbk=5p6OM9SO35ddwLfYq7MyEli0DBeRAA9eT5H0TaCGnVs&security=reality&sid=1e2a649a2f687a&sni=store.steampowered.com&spx=%2Fdbcb12243d0c676&support-x25519mlkem768=true&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@104.248.59.41:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@140.82.39.35:450?encryption=none&fp=chrome&pbk=gvqHHFJflcUULtJomqmIfwogtOROzqkRAmkPxPIm7x8&security=reality&sid=c9cc6a0c38&sni=store.steampowered.com&spx=%2Ff516c9955c5fb99&support-x25519mlkem768=true&type=tcp#sajide911"
      },
      {
-      "config": "trojan://txqnn7mfegrt4o34@188.166.150.210:651?security=none&type=tcp#zohomoa25"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@3.128.119.184:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85\r"
      },
      {
-      "config": "trojan://xq24hbqzejjv6jrc@68.183.29.165:641?security=none&type=tcp#bita74"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@136.244.80.175:446?encryption=none&fp=chrome&pbk=HAHsjo6hHGxFVagCWXBxuf117x05UY62QsFd9qxLXhY&security=reality&sid=4fbac2&sni=store.steampowered.com&spx=%2Fb3413115b3dc68f&support-x25519mlkem768=true&type=tcp#akbaradin99"
      },
      {
-      "config": "trojan://ux521c2qr570rn45@192.241.128.166:647?security=none&type=tcp#kobra44"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@95.179.164.205:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64"
      },
      {
-      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@165.227.196.88:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@52.28.80.125:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85\r"
      },
      {
-      "config": "trojan://xq24hbqzejjv6jrc@64.227.69.176:641?security=none&type=tcp#bita74"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@80.240.21.144:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.127.71:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@80.240.23.164:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85"
      },
      {
-      "config": "trojan://xtm8b09dskugo8sz@201.79.3.255:650?security=none&type=tcp#sajide911"
+      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@80.240.19.204:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.6.140:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@140.82.39.35:451?encryption=none&fp=chrome&pbk=5p6OM9SO35ddwLfYq7MyEli0DBeRAA9eT5H0TaCGnVs&security=reality&sid=1e2a649a2f687a&sni=store.steampowered.com&spx=%2Fdbcb12243d0c676&support-x25519mlkem768=true&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.89.227.204:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@45.76.81.124:441?encryption=none&fp=chrome&pbk=mNE1Qi7hZ-pjjeOHJCPMgVWBS7hzKDEFTK4s26Y7Nms&security=reality&sid=f68437da886228&sni=store.steampowered.com&spx=%2F8c8505e36a697dc&support-x25519mlkem768=true&type=tcp#bita74"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@46.101.176.11:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@136.244.95.223:447?encryption=none&fp=chrome&pbk=Wqg7Afy6TsTS1Fj8yn5ZVlQtKGlcr4zcLhrknyg5Tgs&security=reality&sid=ce557aa220&sni=store.steampowered.com&spx=%2F7924e82273297a1&support-x25519mlkem768=true&type=tcp#kobra44"
      },
      {
-      "config": "trojan://ihfd5hdc2jqvqnk6@167.172.39.192:640?security=none&type=tcp#changiz88"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@209.250.232.201:450?encryption=none&fp=chrome&pbk=gvqHHFJflcUULtJomqmIfwogtOROzqkRAmkPxPIm7x8&security=reality&sid=c9cc6a0c38&sni=store.steampowered.com&spx=%2Ff516c9955c5fb99&support-x25519mlkem768=true&type=tcp#sajide911"
      },
      {
       "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
@@ -1028,66 +1028,66 @@
   }
  },
  "all_configs": [
-  "vless://9c4c682d-c4f2-4563-9283-6027e491366c@77.113.104.107:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#United States A772",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@143.244.167.234:500?security=none&type=tcp#United States TJ-91",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.230.91:500?security=none&type=tcp#United States TJ-28",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.27.211:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-88",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.155.10:500?security=none&type=tcp#United Kingdom TJ-1",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.22.80.171:500?security=none&type=tcp#Germany TJ-96",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.52.198:500?security=none&type=tcp#United States TJ-25",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.230.205:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-32",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@188.166.39.104:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-82",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.89.17.192:500?security=none&type=tcp#Germany TJ-76",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@165.245.246.250:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-56",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.39.104:500?security=none&type=tcp#Netherlands TJ-82",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.31.125:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-82",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@188.166.41.48:500?security=none&type=tcp#Netherlands TJ-95",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@143.244.167.234:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-91",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.72.38:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-75",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.201.115:500?security=none&type=tcp#Germany TJ-77",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.138.28:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-95",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.254.206:500?security=none&type=tcp#Netherlands TJ-29",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.131.226:500?security=none&type=tcp#United States TJ-56",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.230.205:500?security=none&type=tcp#United States TJ-32",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.244.246:500?security=none&type=tcp#Germany TJ-67",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@67.207.84.126:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-29",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.208.146:500?security=none&type=tcp#Germany TJ-80",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@46.101.59.116:500?security=none&type=tcp#United Kingdom TJ-95",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.172.45.172:500?security=none&type=tcp#Netherlands TJ-82",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@142.93.138.28:500?security=none&type=tcp#Netherlands TJ-95",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.90.75:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-82",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@167.99.38.227:500?security=none&type=tcp#Netherlands TJ-72",
-  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@209.38.248.162:500?security=none&type=tcp#Germany TJ-29",
-  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@209.38.199.5:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-  "trojan://xq24hbqzejjv6jrc@68.183.98.19:641?security=none&type=tcp#bita74",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@192.81.209.31:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "trojan://xtm8b09dskugo8sz@68.183.29.165:650?security=none&type=tcp#sajide911",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@68.183.29.165:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@45.77.65.82:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.68.149.7:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "trojan://ihfd5hdc2jqvqnk6@162.243.164.160:640?security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.98.191:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@161.35.92.227:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@139.59.182.127:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74",
-  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@142.93.140.241:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-  "trojan://b442x0e8z65jvnmh@206.189.202.212:649?security=none&type=tcp#xdrpanel81",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@162.243.164.160:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@46.101.130.71:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@201.79.3.255:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@134.122.95.3:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@142.93.47.59:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@104.248.59.41:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "trojan://txqnn7mfegrt4o34@188.166.150.210:651?security=none&type=tcp#zohomoa25",
-  "trojan://xq24hbqzejjv6jrc@68.183.29.165:641?security=none&type=tcp#bita74",
-  "trojan://ux521c2qr570rn45@192.241.128.166:647?security=none&type=tcp#kobra44",
-  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@165.227.196.88:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-  "trojan://xq24hbqzejjv6jrc@64.227.69.176:641?security=none&type=tcp#bita74",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.127.71:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-  "trojan://xtm8b09dskugo8sz@201.79.3.255:650?security=none&type=tcp#sajide911",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.6.140:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.89.227.204:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@46.101.176.11:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "trojan://ihfd5hdc2jqvqnk6@167.172.39.192:640?security=none&type=tcp#changiz88",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.237.204:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-51",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@134.122.50.15:500?security=none&type=tcp#Netherlands TJ-5",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@146.190.226.229:500?security=none&type=tcp#Netherlands TJ-29",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@139.59.178.0:500?security=none&type=tcp#United Kingdom TJ-70",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@64.227.4.238:500?security=none&type=tcp#United States TJ-94",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@157.245.132.8:500?security=none&type=tcp#United States TJ-82",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.139.31:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-19",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.42.24:500?security=none&type=tcp#United Kingdom TJ-67",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@164.92.147.195:500?security=none&type=tcp#Netherlands TJ-43",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@199.247.4.168:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Germany V394",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@178.62.231.229:500?security=none&type=tcp#Netherlands TJ-65",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@165.245.214.190:500?security=none&type=tcp#Germany TJ-7",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@104.248.227.209:500?security=none&type=tcp#United States TJ-41",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.229.18:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-30",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.179.96:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-92",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@192.248.190.142:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Germany V944",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@137.184.64.102:500?security=none&type=tcp#United States TJ-84",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.168.197:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-93",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.177.215:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-27",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.99.95:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-86",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.226.229:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-29",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.231.229:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-65",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.230.174:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-6",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.178.0:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-70",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.147.195:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-43",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@64.176.77.22:443?encryption=none&fp=chrome&pbk=Z-P7LBooVX7h8tEnS2svlGP5RN2YJ1NmjrBkhBMYxBs&security=reality&sid=4e33&sni=store.steampowered.com&spx=%2F9cbce74e0faab0d&support-x25519mlkem768=true&type=tcp#Poland V106",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@159.65.192.249:500?security=none&type=tcp#Netherlands TJ-67",
+  "trojan://SjolfyHg7kEcYxI0ldkLLh9Wfs5gB9TOcvrvunFbwt4%3D@161.35.104.212:500?security=none&type=tcp#United States TJ-54",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.31.10:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-33",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.203.191.215:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@136.244.85.137:446?encryption=none&fp=chrome&pbk=HAHsjo6hHGxFVagCWXBxuf117x05UY62QsFd9qxLXhY&security=reality&sid=4fbac2&sni=store.steampowered.com&spx=%2Fb3413115b3dc68f&support-x25519mlkem768=true&type=tcp#akbaradin99",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@209.250.239.241:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@80.240.21.144:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@199.247.16.163:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@52.28.80.125:444?encryption=none&fp=chrome&pbk=OhoPWFsmHrhxO7TVhW-d7tHrjgD5ElvIt0aZdCjlekY&security=reality&sid=46&sni=store.steampowered.com&spx=%2F8a47ec8c5d0fe3f&support-x25519mlkem768=true&type=tcp#diabla33\r",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@80.240.19.204:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@136.244.94.65:444?encryption=none&fp=chrome&pbk=OhoPWFsmHrhxO7TVhW-d7tHrjgD5ElvIt0aZdCjlekY&security=reality&sid=46&sni=store.steampowered.com&spx=%2F8a47ec8c5d0fe3f&support-x25519mlkem768=true&type=tcp#diabla33",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@95.179.242.246:447?encryption=none&fp=chrome&pbk=Wqg7Afy6TsTS1Fj8yn5ZVlQtKGlcr4zcLhrknyg5Tgs&security=reality&sid=ce557aa220&sni=store.steampowered.com&spx=%2F7924e82273297a1&support-x25519mlkem768=true&type=tcp#kobra44",
+  "vless://4847d6dd-5c7f-459a-8799-606da5851937@209.250.236.219:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@80.240.18.193:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@209.250.239.14:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63",
+  "vless://4847d6dd-5c7f-459a-8799-606da5851937@95.179.241.154:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+  "vless://4847d6dd-5c7f-459a-8799-606da5851937@136.244.95.223:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@95.179.164.205:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@3.77.133.210:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88\r",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@3.77.133.210:443?encryption=none&fp=chrome&pbk=FTFj1HXuIeVYQyRas-bo9sSqIikSAIZW99yaTh4vLmc&security=reality&sid=ec&sni=store.steampowered.com&spx=%2F9ee99a218cc4816&support-x25519mlkem768=true&type=tcp#nonor63\r",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@95.179.242.246:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@136.244.92.77:451?encryption=none&fp=chrome&pbk=5p6OM9SO35ddwLfYq7MyEli0DBeRAA9eT5H0TaCGnVs&security=reality&sid=1e2a649a2f687a&sni=store.steampowered.com&spx=%2Fdbcb12243d0c676&support-x25519mlkem768=true&type=tcp#zohomoa25",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@140.82.39.35:450?encryption=none&fp=chrome&pbk=gvqHHFJflcUULtJomqmIfwogtOROzqkRAmkPxPIm7x8&security=reality&sid=c9cc6a0c38&sni=store.steampowered.com&spx=%2Ff516c9955c5fb99&support-x25519mlkem768=true&type=tcp#sajide911",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@3.128.119.184:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85\r",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@136.244.80.175:446?encryption=none&fp=chrome&pbk=HAHsjo6hHGxFVagCWXBxuf117x05UY62QsFd9qxLXhY&security=reality&sid=4fbac2&sni=store.steampowered.com&spx=%2Fb3413115b3dc68f&support-x25519mlkem768=true&type=tcp#akbaradin99",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@95.179.164.205:448?encryption=none&fp=chrome&pbk=GKhE1XDeDCckaZV1XdNjwhPaBekDj7v9YeCgZlVnlg0&security=reality&sid=0ae6507c61&sni=store.steampowered.com&spx=%2F7dc637d695ae4f2&support-x25519mlkem768=true&type=tcp#azar64",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@52.28.80.125:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85\r",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@80.240.21.144:440?encryption=none&fp=chrome&pbk=honyqSWGO3cllNxKXqQgOC-RrqBU-JFhLqh3p2oHxiU&security=reality&sid=dec46483d6c6&sni=store.steampowered.com&spx=%2F401217ba46be54c&support-x25519mlkem768=true&type=tcp#changiz88",
+  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@80.240.23.164:442?encryption=none&fp=chrome&pbk=HSJQq04uok4O8cfcJ0JpxOL2NjeX_WVo3icZfoimbE4&security=reality&sid=01bf6214e70e55eb&sni=store.steampowered.com&spx=%2F383ec6788178731&support-x25519mlkem768=true&type=tcp#zalo85",
+  "vless://4847d6dd-5c7f-459a-8799-606da5851937@80.240.19.204:449?encryption=none&fp=chrome&pbk=S7Jzpvo4At9yJErMyTYqBzcYDSZG5zsV0MYKmVnr0zU&security=reality&sid=34&sni=store.steampowered.com&spx=%2F150c9b895201e1d&support-x25519mlkem768=true&type=tcp#xdrpanel81",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@140.82.39.35:451?encryption=none&fp=chrome&pbk=5p6OM9SO35ddwLfYq7MyEli0DBeRAA9eT5H0TaCGnVs&security=reality&sid=1e2a649a2f687a&sni=store.steampowered.com&spx=%2Fdbcb12243d0c676&support-x25519mlkem768=true&type=tcp#zohomoa25",
+  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@45.76.81.124:441?encryption=none&fp=chrome&pbk=mNE1Qi7hZ-pjjeOHJCPMgVWBS7hzKDEFTK4s26Y7Nms&security=reality&sid=f68437da886228&sni=store.steampowered.com&spx=%2F8c8505e36a697dc&support-x25519mlkem768=true&type=tcp#bita74",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@136.244.95.223:447?encryption=none&fp=chrome&pbk=Wqg7Afy6TsTS1Fj8yn5ZVlQtKGlcr4zcLhrknyg5Tgs&security=reality&sid=ce557aa220&sni=store.steampowered.com&spx=%2F7924e82273297a1&support-x25519mlkem768=true&type=tcp#kobra44",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@209.250.232.201:450?encryption=none&fp=chrome&pbk=gvqHHFJflcUULtJomqmIfwogtOROzqkRAmkPxPIm7x8&security=reality&sid=c9cc6a0c38&sni=store.steampowered.com&spx=%2Ff516c9955c5fb99&support-x25519mlkem768=true&type=tcp#sajide911",
   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO",
   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@reaza.localip.ir:443?type=ws&path=%2Fadkarnl&security=tls&sni=nl3.trustbridge.buzz&fp=unsafe&alpn=http/1.1&encryption=none#NL%20NL3",
   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@reaza.localip.ir:443?type=ws&path=%2Fadkarnl&security=tls&sni=nl2.trustbridge.buzz&fp=unsafe&alpn=http/1.1&encryption=none#NL%20NL2",
@@ -1112,10 +1112,11 @@
   "526ab483-09a9-4036-92a2-f5ba42df6cee",
   "531d7ef6-838c-4747-ae3a-fc4c502423b8",
   "59906cb2-a61b-4cf3-b77b-5762ef61d2b0",
-  "9c4c682d-c4f2-4563-9283-6027e491366c",
+  "91098444-9012-4c17-8aa8-65cf2d407430",
   "a223ebdb-2098-431a-96c3-38384188c93e",
   "cd1edec4-1fca-445d-b33c-4129bf0d743b",
   "d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a",
-  "e999db7a-1b17-4da6-bc37-c9fa24af2e93"
+  "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
+  "f665d56a-2bb3-4e99-8bf4-b0c5d2142888"
  ]
 }
