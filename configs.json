@@ -1,6 +1,6 @@
 {
- "updated_at_utc": "2026-10-22T00:51:34Z",
- "updated_at_tehran": "2026-10-22 03:51:34 (Iran Standard Time)",
+ "updated_at_utc": "2026-10-22T05:36:11Z",
+ "updated_at_tehran": "2026-10-22 08:36:11 (Iran Standard Time)",
  "summary": {
   "speedray_source_used": "zaha.php (github)",
   "speedray_zaha_error": null,
@@ -8,15 +8,15 @@
   "speedray_domains_ok": 0,
   "speedray_domains_gated": 11,
   "speedray_domains_failed": 0,
-  "speedray_main_configs": 30,
+  "speedray_main_configs": 29,
   "speedray_splash_configs": 31,
-  "speedray_unique": 61,
+  "speedray_unique": 60,
   "shah_normal_configs": 9,
   "shah_smart_configs": 1,
   "shah_unique": 10,
   "shah_source_used": "api.gem-panel.com (اصلی)",
-  "unique_total": 71,
-  "unique_uuids": 20
+  "unique_total": 70,
+  "unique_uuids": 17
  },
  "speedray": {
   "source_used": "zaha.php (github)",
@@ -26,7 +26,7 @@
     "url": "https://akhtarbuy.uk/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 522,
+    "http_ms": 503,
     "config_count": 0,
     "error": null
    },
@@ -34,7 +34,7 @@
     "url": "https://akhtarbuy.ca/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 534,
+    "http_ms": 510,
     "config_count": 0,
     "error": null
    },
@@ -42,7 +42,7 @@
     "url": "https://akhtarbuy.cc/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 532,
+    "http_ms": 498,
     "config_count": 0,
     "error": null
    },
@@ -50,7 +50,7 @@
     "url": "https://akhtarbuy.net/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 549,
+    "http_ms": 507,
     "config_count": 0,
     "error": null
    },
@@ -58,7 +58,7 @@
     "url": "https://akhtarbuy.org/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 529,
+    "http_ms": 607,
     "config_count": 0,
     "error": null
    },
@@ -66,7 +66,7 @@
     "url": "https://akhtarbuy.work/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 596,
+    "http_ms": 513,
     "config_count": 0,
     "error": null
    },
@@ -74,7 +74,7 @@
     "url": "https://tmzara.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 535,
+    "http_ms": 526,
     "config_count": 0,
     "error": null
    },
@@ -82,7 +82,7 @@
     "url": "https://akhtarbuy.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 523,
+    "http_ms": 518,
     "config_count": 0,
     "error": null
    },
@@ -90,7 +90,7 @@
     "url": "https://sirjanha.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 546,
+    "http_ms": 529,
     "config_count": 0,
     "error": null
    },
@@ -98,7 +98,7 @@
     "url": "https://piransharrudaw-events.com/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 350,
+    "http_ms": 323,
     "config_count": 0,
     "error": null
    },
@@ -106,74 +106,73 @@
     "url": "https://almaktoom.org/v2speed.php",
     "ok": true,
     "gated": true,
-    "http_ms": 624,
+    "http_ms": 597,
     "config_count": 0,
     "error": null
    }
   ],
   "main_servers": [
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@24.144.104.156:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.241.84:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-93",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.132.50:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-90",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.185.252:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-7",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.187.128:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-5",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.86.86:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-19",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.96.46:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-24",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.82.90:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-65",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.25.11:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-67",
+   "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@d1.awsstatic.com:443?path=%2Fapi%2Fproducts%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d1kossa71pc56d.cloudfront.net&type=ws&allowInsecure=0&sni=d1kossa71pc56d.cloudfront.net#Germany-CF",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.207.75:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC0",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.10.65:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-78",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.19.70:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-72",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.201.103:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-66",
    "vless://9c4c682d-c4f2-4563-9283-6027e491366c@3.133.119.78:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#United States A628",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.80.20:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-80",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.89.98.231:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-86",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.168.201:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.19.8:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-65",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.252.93:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-60",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.214.177:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-90",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.226.39:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-79",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.188.61:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-27",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.24.9:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-53",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.185.234:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-72",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.254.199:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-45",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.57.66:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC0",
-   "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@54.230.112.40:443?path=%2Fapi%2Fv1%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d17ts7c7z3fe13.cloudfront.net&type=ws&allowInsecure=0&sni=d17ts7c7z3fe13.cloudfront.net#Germany",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@64.227.125.161:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-7",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@192.241.144.34:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-16",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.85.132:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-62",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.232.93:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-88",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.97.118:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-53",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.78.205:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-76",
-   "vless://3de85f89-adb3-44b6-a14c-e9944e078e30@18.165.122.50:443?path=%2Fapi%2Fv2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dgtvkycturve6.cloudfront.net&type=ws&allowInsecure=0&sni=dgtvkycturve6.cloudfront.net#Finland H-435",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.209.41:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-14",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.115.158:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-2",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.124.20:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-66",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@198.199.70.239:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-41",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.228.249:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-54",
-   "vless://9c4c682d-c4f2-4563-9283-6027e491366c@13.53.85.127:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#Sweden A867",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.203.186.153:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-4",
-   "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.218.1:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-59"
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.226.227:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-67",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.218.37:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-15",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@64.226.77.99:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-6",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.133.254:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-63",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.188.11:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-58",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@165.227.197.83:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-2",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.157.15:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-97",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.222.178:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-84",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.238.163:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-50",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.12.171:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-71",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.246.92:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-70",
+   "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@18.66120.15:443?path=%2Fapi%2Fv1%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d17ts7c7z3fe13.cloudfront.net&type=ws&allowInsecure=0&sni=d17ts7c7z3fe13.cloudfront.net#Germany",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.166.123:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-99",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.135.243:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-39",
+   "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.14.189:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-5"
   ],
   "splash_servers": [
-   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@167.99.237.209:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@46.101.6.87:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@167.99.41.209:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@157.230.222.89:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.212.144:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@138.68.174.100:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@64.226.74.126:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.4.20:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.223.127.201:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@147.182.143.248:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@170.64.168.238:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@67.205.130.221:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@138.68.94.37:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@68.183.112.218:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.186.170:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@139.59.177.140:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.45.182:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.81.2:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@159.223.12.111:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-   "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@167.172.140.149:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.6.173:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.81.2:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-   "vless://4847d6dd-5c7f-459a-8799-606da5851937@157.230.106.155:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.90.224.164:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@104.248.26.63:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
-   "vless://91098444-9012-4c17-8aa8-65cf2d407430@138.68.191.17:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
-   "vless://0e46108b-fc68-4128-8487-ba2588935025@146.190.65.211:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@167.99.41.209:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.168.238:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
-   "vless://21e630e7-1947-4800-879e-0752e45a3249@159.223.229.252:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@134.199.171.233:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.56.51:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@157.230.125.217:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.237.133:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@201.79.95.60:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.223.175.195:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@206.189.2.182:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@206.189.2.182:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@24.144.126.5:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@46.101.151.188:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@164.92.237.4:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.166.17:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.212.175:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@201.79.6.36:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+   "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.92.172.196:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.118.247:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
+   "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@207.154.211.68:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
+   "vless://0e46108b-fc68-4128-8487-ba2588935025@157.230.98.171:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.151.188:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@142.93.42.52:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.4.99:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@161.35.219.85:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.83.254:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@159.65.50.251:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@188.166.155.124:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+   "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.169.64:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
+   "vless://91098444-9012-4c17-8aa8-65cf2d407430@152.42.137.247:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+   "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.106.240:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+   "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.31.186:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+   "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@167.99.35.151:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
    "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
   ],
   "app_config": {
@@ -264,7 +263,7 @@
    "max_ping": "30",
    "stop_time": 120,
    "bc": "ca-app-pub-7182999367757973/4306998324",
-   "time": 41,
+   "time": 47,
    "status": "off",
    "update": "off",
    "reward": "2294529",
@@ -289,7 +288,7 @@
     "+15",
     "+12"
    ],
-   "target": "8"
+   "target": "15"
   },
   "packages": [
    "com.android.chrome",
@@ -340,7 +339,7 @@
       "+15",
       "+12"
      ],
-     "target": "8"
+     "target": "15"
     },
     "appConfig": {
      "dns_bean": {
@@ -430,7 +429,7 @@
      "max_ping": "30",
      "stop_time": 120,
      "bc": "ca-app-pub-7182999367757973/4306998324",
-     "time": 41,
+     "time": 47,
      "status": "off",
      "update": "off",
      "reward": "2294529",
@@ -482,186 +481,186 @@
     ],
     "servers": [
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@24.144.104.156:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.241.84:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-93"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.132.50:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-90"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.185.252:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-7"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.187.128:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-5"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.86.86:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-19"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.96.46:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-24"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.82.90:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-65"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.25.11:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-67"
+     },
+     {
+      "config": "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@d1.awsstatic.com:443?path=%2Fapi%2Fproducts%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d1kossa71pc56d.cloudfront.net&type=ws&allowInsecure=0&sni=d1kossa71pc56d.cloudfront.net#Germany-CF"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.207.75:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC0"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.10.65:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-78"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.19.70:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-72"
+     },
+     {
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.201.103:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-66"
+     },
+     {
+      "config": "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@d1.awsstatic.com:443?path=%2Fapi%2Fproducts%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d1kossa71pc56d.cloudfront.net&type=ws&allowInsecure=0&sni=d1kossa71pc56d.cloudfront.net#Germany-CF"
      },
      {
       "config": "vless://9c4c682d-c4f2-4563-9283-6027e491366c@3.133.119.78:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#United States A628"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.80.20:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-80"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.226.227:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-67"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.89.98.231:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-86"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.218.37:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-15"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.168.201:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@64.226.77.99:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-6"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.19.8:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-65"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.133.254:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-63"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.252.93:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-60"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.188.11:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-58"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.214.177:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-90"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@165.227.197.83:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-2"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.226.39:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-79"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.157.15:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-97"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.188.61:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-27"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.222.178:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-84"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.24.9:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-53"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.238.163:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-50"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.185.234:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-72"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.12.171:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-71"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.254.199:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-45"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.246.92:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-70"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.57.66:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC0"
+      "config": "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@18.66120.15:443?path=%2Fapi%2Fv1%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d17ts7c7z3fe13.cloudfront.net&type=ws&allowInsecure=0&sni=d17ts7c7z3fe13.cloudfront.net#Germany"
      },
      {
-      "config": "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@54.230.112.40:443?path=%2Fapi%2Fv1%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d17ts7c7z3fe13.cloudfront.net&type=ws&allowInsecure=0&sni=d17ts7c7z3fe13.cloudfront.net#Germany"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.166.123:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-99"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@64.227.125.161:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-7"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.135.243:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-39"
      },
      {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@192.241.144.34:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-16"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.85.132:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-62"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.232.93:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-88"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.97.118:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-53"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.78.205:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-76"
-     },
-     {
-      "config": "vless://3de85f89-adb3-44b6-a14c-e9944e078e30@18.165.122.50:443?path=%2Fapi%2Fv2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dgtvkycturve6.cloudfront.net&type=ws&allowInsecure=0&sni=dgtvkycturve6.cloudfront.net#Finland H-435"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.209.41:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-14"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.115.158:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-2"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.124.20:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-66"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@198.199.70.239:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-41"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.228.249:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-54"
-     },
-     {
-      "config": "vless://9c4c682d-c4f2-4563-9283-6027e491366c@13.53.85.127:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#Sweden A867"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@159.203.186.153:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-4"
-     },
-     {
-      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.218.1:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-59"
+      "config": "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.14.189:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-5"
      }
     ],
     "splash": [
      {
-      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@167.99.237.209:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74"
+      "config": "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@134.199.171.233:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@46.101.6.87:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.56.51:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@167.99.41.209:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@157.230.125.217:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@157.230.222.89:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.237.133:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.212.144:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@201.79.95.60:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@138.68.174.100:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.223.175.195:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@64.226.74.126:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@206.189.2.182:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.4.20:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@206.189.2.182:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.223.127.201:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@24.144.126.5:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@147.182.143.248:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@46.101.151.188:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
-      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@170.64.168.238:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@164.92.237.4:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@67.205.130.221:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.166.17:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63"
      },
      {
-      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@138.68.94.37:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.212.175:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@68.183.112.218:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@201.79.6.36:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.186.170:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.92.172.196:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@139.59.177.140:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.118.247:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.45.182:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@207.154.211.68:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911"
      },
      {
-      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.81.2:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63"
+      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@157.230.98.171:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@159.223.12.111:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.151.188:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@167.172.140.149:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@142.93.42.52:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.6.173:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.4.99:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.81.2:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@161.35.219.85:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://4847d6dd-5c7f-459a-8799-606da5851937@157.230.106.155:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.83.254:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.90.224.164:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@159.65.50.251:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@104.248.26.63:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@188.166.155.124:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
-      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@138.68.191.17:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25"
+      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.169.64:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63"
      },
      {
-      "config": "vless://0e46108b-fc68-4128-8487-ba2588935025@146.190.65.211:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44"
+      "config": "vless://91098444-9012-4c17-8aa8-65cf2d407430@152.42.137.247:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25"
      },
      {
-      "config": "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@167.99.41.209:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99"
+      "config": "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.106.240:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88"
      },
      {
-      "config": "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.168.238:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63"
+      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.31.186:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
      },
      {
-      "config": "vless://21e630e7-1947-4800-879e-0752e45a3249@159.223.229.252:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64"
+      "config": "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@167.99.35.151:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33"
      },
      {
       "config": "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO"
@@ -898,11 +897,11 @@
     ],
     "smart": [
      {
-      "id": "45427889",
-      "name": "VistaFD3DE1",
+      "id": "45432110",
+      "name": "Metro-1D7D8B",
       "country": "GO",
       "protocol": "json",
-      "config": "{\"dns\":{\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"dns.cloudflare.com\":[\"162.159.61.8\",\"172.64.41.8\",\"2a06:98c1:52::8\",\"2803:f800:53::8\"],\"cloudflare-dns.com\":[\"104.16.248.249\",\"104.16.249.249\",\"2606:4700::6810:f8f9\",\"2606:4700::6810:f9f9\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"cafebazaar.ir\":\"5.175.205.126\",\"bank-maskan.ir\":\"5.230.67.125\",\"asanpardakht.com\":\"5.175.205.125\",\"uupload.ir\":\"5.231.91.76\"},\"servers\":[\"1.1.1.1\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true}]},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\",\"quic\"]},\"tag\":\"socks\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"cafebazaar.ir\",\"port\":443,\"id\":\"a083ff74-1879-4076-92e3-7ff82786ad2a\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"gateway.shovixa.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"]},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-9b1ca898871fcf6c2e1b\",\"authority\":\"gateway.shovixa.ir\"}},\"tag\":\"proxy-1\"},{\"protocol\":\"vless\",\"settings\":{\"address\":\"bank-maskan.ir\",\"port\":443,\"id\":\"06ede7fa-b0a2-4412-9658-eff4872295a3\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"api.shovixa.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"],\"echConfigList\":\"AGH+DQBdAAAgACBvjilLWtlcGiGKTYmvCITue0MahjeHkzEpaHC0hq/VVwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5hcGkuc2hvdml4YS5pcgAA\"},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-f80872601145a1c9cef4\",\"authority\":\"api.shovixa.ir\"}},\"tag\":\"proxy-2\"},{\"protocol\":\"vless\",\"settings\":{\"address\":\"asanpardakht.com\",\"port\":443,\"id\":\"c317492a-6846-4929-9016-8226b3a9dbec\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"console.duivert.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"],\"echConfigList\":\"AGX+DQBhAAAgACBYToLtOoir9cqhmrpUY1LpIXA1SJxXTciX5dlDetX/DwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABJjb25zb2xlLmR1aXZlcnQuaXIAAA==\"},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-51abfd6e1cdc052a5bb2\",\"authority\":\"console.duivert.ir\"}},\"tag\":\"proxy-3\"},{\"protocol\":\"vless\",\"settings\":{\"address\":\"uupload.ir\",\"port\":443,\"id\":\"50801762-e2be-4fb2-84a2-bbab95cf3cd9\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"files.shovixa.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"],\"echConfigList\":\"AGP+DQBfAAAgACDf7Q7n9z81lLDI7tL8Am3VtXUN+vWD3LyLcjWLEQxOIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABBmaWxlcy5zaG92aXhhLmlyAAA=\"},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-3cc7fd3a829907649e61\",\"authority\":\"files.shovixa.ir\"}},\"tag\":\"proxy-4\"},{\"protocol\":\"freedom\",\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"Rsb\",\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"balancers\":[{\"tag\":\"proxy-balancer\",\"selector\":[\"proxy-\"],\"strategy\":{\"type\":\"random\"}}],\"rules\":[{\"type\":\"field\",\"network\":\"udp\",\"port\":\"443\",\"outboundTag\":\"block\"},{\"type\":\"field\",\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\"},{\"type\":\"field\",\"domain\":[\"geosite:private\"],\"outboundTag\":\"direct\"},{\"type\":\"field\",\"domain\":[\"geosite:category-ads-all\"],\"balancerTag\":\"proxy-balancer\"},{\"type\":\"field\",\"network\":\"tcp,udp\",\"balancerTag\":\"proxy-balancer\"}]}}",
+      "config": "{\"dns\":{\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"dns.cloudflare.com\":[\"162.159.61.8\",\"172.64.41.8\",\"2a06:98c1:52::8\",\"2803:f800:53::8\"],\"cloudflare-dns.com\":[\"104.16.248.249\",\"104.16.249.249\",\"2606:4700::6810:f8f9\",\"2606:4700::6810:f9f9\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"cafebazaar.ir\":\"5.175.205.126\",\"bank-maskan.ir\":\"5.230.67.128\",\"asanpardakht.com\":\"5.175.205.125\",\"uupload.ir\":\"5.231.91.77\"},\"servers\":[\"1.1.1.1\",{\"address\":\"223.5.5.5\",\"domains\":[\"geosite:private\"],\"skipFallback\":true}]},\"inbounds\":[{\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\",\"quic\"]},\"tag\":\"socks\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"address\":\"cafebazaar.ir\",\"port\":443,\"id\":\"a083ff74-1879-4076-92e3-7ff82786ad2a\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"gateway.shovixa.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"]},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-9b1ca898871fcf6c2e1b\",\"authority\":\"gateway.shovixa.ir\"}},\"tag\":\"proxy-1\"},{\"protocol\":\"vless\",\"settings\":{\"address\":\"bank-maskan.ir\",\"port\":443,\"id\":\"06ede7fa-b0a2-4412-9658-eff4872295a3\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"api.shovixa.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"],\"echConfigList\":\"AGH+DQBdAAAgACBvjilLWtlcGiGKTYmvCITue0MahjeHkzEpaHC0hq/VVwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5hcGkuc2hvdml4YS5pcgAA\"},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-f80872601145a1c9cef4\",\"authority\":\"api.shovixa.ir\"}},\"tag\":\"proxy-2\"},{\"protocol\":\"vless\",\"settings\":{\"address\":\"asanpardakht.com\",\"port\":443,\"id\":\"c317492a-6846-4929-9016-8226b3a9dbec\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"console.duivert.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"],\"echConfigList\":\"AGX+DQBhAAAgACBYToLtOoir9cqhmrpUY1LpIXA1SJxXTciX5dlDetX/DwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABJjb25zb2xlLmR1aXZlcnQuaXIAAA==\"},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-51abfd6e1cdc052a5bb2\",\"authority\":\"console.duivert.ir\"}},\"tag\":\"proxy-3\"},{\"protocol\":\"vless\",\"settings\":{\"address\":\"uupload.ir\",\"port\":443,\"id\":\"50801762-e2be-4fb2-84a2-bbab95cf3cd9\",\"encryption\":\"none\"},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"files.shovixa.ir\",\"allowInsecure\":false,\"fingerprint\":\"chrome\",\"alpn\":[\"h2\"],\"echConfigList\":\"AGP+DQBfAAAgACDf7Q7n9z81lLDI7tL8Am3VtXUN+vWD3LyLcjWLEQxOIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABBmaWxlcy5zaG92aXhhLmlyAAA=\"},\"sockopt\":{\"domainStrategy\":\"UseIP\"},\"grpcSettings\":{\"serviceName\":\"grpc-3cc7fd3a829907649e61\",\"authority\":\"files.shovixa.ir\"}},\"tag\":\"proxy-4\"},{\"protocol\":\"freedom\",\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{},\"tag\":\"block\"}],\"remarks\":\"Rsb\",\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"balancers\":[{\"tag\":\"proxy-balancer\",\"selector\":[\"proxy-\"],\"strategy\":{\"type\":\"random\"}}],\"rules\":[{\"type\":\"field\",\"network\":\"udp\",\"port\":\"443\",\"outboundTag\":\"block\"},{\"type\":\"field\",\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\"},{\"type\":\"field\",\"domain\":[\"geosite:private\"],\"outboundTag\":\"direct\"},{\"type\":\"field\",\"domain\":[\"geosite:category-ads-all\"],\"balancerTag\":\"proxy-balancer\"},{\"type\":\"field\",\"network\":\"tcp,udp\",\"balancerTag\":\"proxy-balancer\"}]}}",
       "regions": ""
      }
     ],
@@ -1026,66 +1025,65 @@
   }
  },
  "all_configs": [
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@24.144.104.156:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.128.241.84:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-93",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.132.50:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-90",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.185.252:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-7",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.187.128:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-5",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.86.86:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-19",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.96.46:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-24",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@104.248.82.90:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-65",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.25.11:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-67",
+  "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@d1.awsstatic.com:443?path=%2Fapi%2Fproducts%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d1kossa71pc56d.cloudfront.net&type=ws&allowInsecure=0&sni=d1kossa71pc56d.cloudfront.net#Germany-CF",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.207.75:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC0",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.10.65:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-78",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@161.35.19.70:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-72",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.201.103:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-66",
   "vless://9c4c682d-c4f2-4563-9283-6027e491366c@3.133.119.78:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=f19f3a2a76&sni=p-yo-www-amazon-com-kalias.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#United States A628",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.80.20:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-80",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.89.98.231:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-86",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.168.201:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-22",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@206.189.19.8:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-65",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.252.93:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-60",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.214.177:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-90",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.226.39:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-79",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.188.61:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-27",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@209.38.24.9:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-53",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.185.234:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-72",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@142.93.254.199:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-45",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@157.230.57.66:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC0",
-  "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@54.230.112.40:443?path=%2Fapi%2Fv1%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d17ts7c7z3fe13.cloudfront.net&type=ws&allowInsecure=0&sni=d17ts7c7z3fe13.cloudfront.net#Germany",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@64.227.125.161:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-7",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@192.241.144.34:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-16",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.85.132:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-62",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.232.93:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-88",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.97.118:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-53",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@138.68.78.205:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-76",
-  "vless://3de85f89-adb3-44b6-a14c-e9944e078e30@18.165.122.50:443?path=%2Fapi%2Fv2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dgtvkycturve6.cloudfront.net&type=ws&allowInsecure=0&sni=dgtvkycturve6.cloudfront.net#Finland H-435",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@137.184.209.41:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-14",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.122.115.158:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-2",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.124.20:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-66",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@198.199.70.239:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-41",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@164.92.228.249:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-54",
-  "vless://9c4c682d-c4f2-4563-9283-6027e491366c@13.53.85.127:443?encryption=none&fp=chrome&pbk=Iw5tnGuMREzOjOzzHDldX_CUKg4-urgefzdcPCU-NV8&security=reality&sid=713581&sni=yp.amazon.com&spx=%2F34f297774555649&support-x25519mlkem768=true&type=tcp#Sweden A867",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.203.186.153:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-4",
-  "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.218.1:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-59",
-  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@167.99.237.209:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@46.101.6.87:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@167.99.41.209:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@157.230.222.89:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.212.144:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@138.68.174.100:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@64.226.74.126:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@159.223.4.20:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.223.127.201:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@147.182.143.248:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@170.64.168.238:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@67.205.130.221:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@138.68.94.37:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@68.183.112.218:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.186.170:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@139.59.177.140:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.232.45.182:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@161.35.81.2:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@159.223.12.111:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
-  "vless://531d7ef6-838c-4747-ae3a-fc4c502423b8@167.172.140.149:442?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zalo85",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.6.173:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@161.35.81.2:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
-  "vless://4847d6dd-5c7f-459a-8799-606da5851937@157.230.106.155:449?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#xdrpanel81",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.90.224.164:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@104.248.26.63:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
-  "vless://91098444-9012-4c17-8aa8-65cf2d407430@138.68.191.17:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
-  "vless://0e46108b-fc68-4128-8487-ba2588935025@146.190.65.211:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
-  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@167.99.41.209:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
-  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@170.64.168.238:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
-  "vless://21e630e7-1947-4800-879e-0752e45a3249@159.223.229.252:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.226.227:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-67",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.218.37:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-15",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@64.226.77.99:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-6",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@157.245.133.254:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-63",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.188.11:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-58",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@165.227.197.83:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-2",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@67.205.157.15:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-97",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@170.64.222.178:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Australia TC-84",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@164.90.238.163:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Germany TC-50",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@159.223.12.171:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-71",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.246.92:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#Netherlands TC-70",
+  "vless://328a3ea0-1f1a-4437-8ec1-b862ce38df24@18.66120.15:443?path=%2Fapi%2Fv1%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d17ts7c7z3fe13.cloudfront.net&type=ws&allowInsecure=0&sni=d17ts7c7z3fe13.cloudfront.net#Germany",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@139.59.166.123:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United Kingdom TC-99",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@167.172.135.243:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-39",
+  "vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.14.189:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#United States TC-5",
+  "vless://cd1edec4-1fca-445d-b33c-4129bf0d743b@134.199.171.233:441?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#bita74",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.56.51:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@157.230.125.217:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.237.133:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@201.79.95.60:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@159.223.175.195:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@206.189.2.182:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@206.189.2.182:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@24.144.126.5:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@46.101.151.188:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@164.92.237.4:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@164.92.166.17:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.212.175:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@201.79.6.36:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+  "vless://1a3704db-970f-4faf-8031-6d06ed3fe21e@164.92.172.196:446?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#akbaradin99",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@104.248.118.247:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
+  "vless://0c6be0df-4b7a-4c14-ad81-1bed0963a2bd@207.154.211.68:450?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#sajide911",
+  "vless://0e46108b-fc68-4128-8487-ba2588935025@157.230.98.171:447?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#kobra44",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.151.188:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@142.93.42.52:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@201.79.4.99:440?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@161.35.219.85:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@46.101.83.254:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@159.65.50.251:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@188.166.155.124:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
+  "vless://f665d56a-2bb3-4e99-8bf4-b0c5d2142888@168.144.169.64:443?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#nonor63",
+  "vless://91098444-9012-4c17-8aa8-65cf2d407430@152.42.137.247:451?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#zohomoa25",
+  "vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.106.240:439?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#changiz88",
+  "vless://21e630e7-1947-4800-879e-0752e45a3249@178.62.31.186:448?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#azar64",
+  "vless://d50de7a7-84a7-4b55-8e3b-e7e846f9ea1a@167.99.35.151:444?encryption=none&headerType=http&host=maps.google.com&path=%2F&security=none&type=tcp#diabla33",
   "vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#Germany%20PO",
   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@shortbig.ir:443?type=ws&path=%2Fadkarnl&security=tls&sni=nl3.golestanshopp.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20NL3",
   "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@shortbig.ir:443?type=ws&path=%2Fadkarnl&security=tls&sni=nl2.golestanshopp.ir&fp=unsafe&alpn=http/1.1&encryption=none#NL%20NL2",
@@ -1106,10 +1104,7 @@
   "21e630e7-1947-4800-879e-0752e45a3249",
   "328a3ea0-1f1a-4437-8ec1-b862ce38df24",
   "337bf72e-bb79-4d5f-be3f-7822eb77100c",
-  "3de85f89-adb3-44b6-a14c-e9944e078e30",
   "40992c2a-513e-4837-9594-23411fd42afd",
-  "4847d6dd-5c7f-459a-8799-606da5851937",
-  "531d7ef6-838c-4747-ae3a-fc4c502423b8",
   "59906cb2-a61b-4cf3-b77b-5762ef61d2b0",
   "91098444-9012-4c17-8aa8-65cf2d407430",
   "9c4c682d-c4f2-4563-9283-6027e491366c",
